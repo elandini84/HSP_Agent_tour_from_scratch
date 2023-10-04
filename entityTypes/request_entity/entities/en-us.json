@@ -1,0 +1,23 @@
+{
+  "entities": [ {
+    "value": "tell",
+    "synonyms": [ "can you tell me", "tell", "tell me", "what can you tell me" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "provide me",
+    "synonyms": [ "give me", "provide me" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "specify",
+    "synonyms": [ "how", "how many", "how much", "what", "when" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "possess",
+    "synonyms": [ "do you have", "have you" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "identity",
+    "synonyms": [ "who" ],
+    "languageCode": "en-us"
+  } ]
+}

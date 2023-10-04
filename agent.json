@@ -1,0 +1,39 @@
+{
+  "defaultLanguageCode": "en",
+  "supportedLanguageCodes": [ "it", "en-us" ],
+  "timeZone": "America/Los_Angeles",
+  "enableLogging": true,
+  "projectNumber": 522779747538,
+  "speechToTextSettings": {
+  
+  },
+  "startFlow": "LanguageSeletion_flow",
+  "advancedSettings": {
+    "audioExportGcsDestination": {
+    
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      }
+    },
+    "playbackInterruptionSettings": {
+    
+    },
+    "dtmfSettings": {
+      "interdigitTimeoutDuration": {
+      
+      },
+      "endpointingTimeoutDuration": {
+      
+      }
+    },
+    "loggingSettings": {
+      "enableInteractionLogging": true
+    }
+  },
+  "speakerIdSettings": {
+  
+  }
+}

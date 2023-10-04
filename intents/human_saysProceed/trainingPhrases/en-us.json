@@ -1,0 +1,149 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "You",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": " may "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": " can "
+    }, {
+      "text": "continue",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " now"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": " can "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": " can "
+    }, {
+      "text": "continue",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Ok",
+      "parameterId": "affermative_entity",
+      "auto": true
+    }, {
+      "text": ", "
+    }, {
+      "text": "go on",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": " can "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " now"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": " can "
+    }, {
+      "text": "go on",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Go ahead",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Ok",
+      "parameterId": "affermative_entity",
+      "auto": true
+    }, {
+      "text": ", "
+    }, {
+      "text": "you",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": " can "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " now"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Ok",
+      "parameterId": "affermative_entity",
+      "auto": true
+    }, {
+      "text": ", "
+    }, {
+      "text": "go ahead",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

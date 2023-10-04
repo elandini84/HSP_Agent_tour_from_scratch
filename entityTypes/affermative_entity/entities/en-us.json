@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "yes",
+    "synonyms": [ "yes", "yes of course", "yes please" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "of course",
+    "synonyms": [ "of course" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "ok",
+    "synonyms": [ "ok" ],
+    "languageCode": "en-us"
+  } ]
+}

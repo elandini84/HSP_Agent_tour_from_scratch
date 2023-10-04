@@ -1,0 +1,24 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "startpoi",
+      "parameterId": "poi_entity"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "samelocation",
+      "parameterId": "poi_entity"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "nextopera",
+      "parameterId": "poi_entity"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

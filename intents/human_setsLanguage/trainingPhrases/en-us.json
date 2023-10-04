@@ -1,0 +1,25 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "english",
+      "parameterId": "language",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "inglese",
+      "parameterId": "language"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "italiano",
+      "parameterId": "language"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "7578ad7c-e0c1-4738-9e6b-aa02135e67ba",
+  "displayName": "human_saysYes",
+  "priority": 500000,
+  "labels": [ {
+    "key": "answer",
+    "value": "answer"
+  }, {
+    "key": "human",
+    "value": "human"
+  } ],
+  "description": "Triggered when a human being answer affirmatively to the robot",
+  "numTrainingPhrases": 19
+}

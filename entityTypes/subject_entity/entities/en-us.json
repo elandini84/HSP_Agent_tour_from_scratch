@@ -1,0 +1,55 @@
+{
+  "entities": [ {
+    "value": "opera",
+    "synonyms": [ "artwork", "opera", "painting", "sculpture", "statue", "vase" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "author",
+    "synonyms": [ "artist", "author", "painter", "sculptor" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "epoch",
+    "synonyms": [ "epoch", "historical period", "period" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "functioning",
+    "synonyms": [ "functioning", "operation", "work" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "technique",
+    "synonyms": [ "art", "methodology", "procedure", "technique" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "museum",
+    "synonyms": [ "building", "museum", "palace" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "main piece",
+    "synonyms": [ "main artwork", "main piece" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "project",
+    "synonyms": [ "project" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "r1",
+    "synonyms": [ "r one", "r1", "robot", "you", "your name" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "creator",
+    "synonyms": [ "build you", "created you", "creator", "made you", "maker" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "joke",
+    "synonyms": [ "joke", "something funny" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "age",
+    "synonyms": [ "age" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "future",
+    "synonyms": [ "future goals", "future objectives", "upcoming objectives" ],
+    "languageCode": "en-us"
+  } ]
+}

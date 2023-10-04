@@ -1,0 +1,122 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "LanguageSeletion_flow",
+  "description": "Flow for the language selection",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "selectLanguage" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "selectLanguage" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "Hi! How are you doing?", "Hello! How can I help you?", "Good day! What can I do for you today?", "Greetings! How can I assist?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "34d2acee-d0a0-4a2f-8727-a9dfed8192fb"
+  }, {
+    "intent": "human_setsLanguage",
+    "condition": "$session.params.language = \"Italiano\" OR $session.params.language = \"italiano\"",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "italianLanguage" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "italianLanguage" ]
+        },
+        "languageCode": "en-us"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "skipStart",
+        "value": true
+      } ]
+    },
+    "targetFlow": "Welcome_flow",
+    "name": "1439f3d1-b69a-42c5-a91b-536905f107b7"
+  }, {
+    "intent": "human_setsLanguage",
+    "condition": "$session.params.language = \"English\" OR $session.params.language = \"english\"",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "englishLanguage" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "englishLanguage" ]
+        },
+        "languageCode": "en-us"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "skipStart",
+        "value": true
+      } ]
+    },
+    "targetFlow": "Welcome_flow",
+    "name": "c9a36b49-381b-434c-b6aa-fba3e0b3518e"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "fallback" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "fallback" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "655f931b-07c6-46e7-9c1d-3825683bdc5b"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "3157149e-cafe-48ca-b7af-0f44fd56d6f0"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_STANDARD",
+    "classificationThreshold": 0.30000001,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_AUTOMATIC",
+    "multiIntentSettings": {
+    
+    }
+  },
+  "advancedSettings": {
+    "dtmfSettings": {
+      "interdigitTimeoutDuration": {
+      
+      },
+      "endpointingTimeoutDuration": {
+      
+      }
+    }
+  }
+}

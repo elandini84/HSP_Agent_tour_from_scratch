@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "piú",
+    "synonyms": [ "di piú", "piú", "qualcos'altro", "qualcosa di piú", "qualcosa in piú" ],
+    "languageCode": "it"
+  }, {
+    "value": "dettagli",
+    "synonyms": [ "altre informazioni", "altri dettagli", "dettagli", "maggiori dettagli", "maggiori informazioni", "qualche altro dettaglio", "ulteriori dettagli", "ulteriori informazioni", "qualche altra informazione" ],
+    "languageCode": "it"
+  } ]
+}

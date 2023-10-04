@@ -1,0 +1,23 @@
+{
+  "entities": [ {
+    "value": "parlami",
+    "synonyms": [ "cosa puoi dirmi", "dimmi", "parlami", "puoi parlarmi", "puoi dirmi?" ],
+    "languageCode": "it"
+  }, {
+    "value": "chi",
+    "synonyms": [ "chi", "cosa" ],
+    "languageCode": "it"
+  }, {
+    "value": "forniscimi",
+    "synonyms": [ "dammi", "forniscimi" ],
+    "languageCode": "it"
+  }, {
+    "value": "specifica",
+    "synonyms": [ "come", "quale", "quanti", "quanto" ],
+    "languageCode": "it"
+  }, {
+    "value": "possesso",
+    "synonyms": [ "avresti mica", "hai" ],
+    "languageCode": "it"
+  } ]
+}

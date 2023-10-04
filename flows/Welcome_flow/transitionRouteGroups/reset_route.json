@@ -1,0 +1,22 @@
+{
+  "name": "f40a88b3-6528-43f5-b21c-7167e93d251b",
+  "displayName": "reset_route",
+  "transitionRoutes": [ {
+    "intent": "manager_saysResetDialog",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "resetReceived" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "resetReceived" ]
+        },
+        "languageCode": "en-us"
+      } ]
+    },
+    "targetFlow": "LanguageSeletion_flow",
+    "name": "3fd8f98d-4d58-4adf-89ea-8eb91a0be64e"
+  } ]
+}

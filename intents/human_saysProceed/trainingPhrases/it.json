@@ -1,0 +1,106 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Puoi ",
+      "auto": true
+    }, {
+      "text": "continuare",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "ora",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Continua pure",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi ",
+      "auto": true
+    }, {
+      "text": "continuare",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vai pure avanti",
+      "parameterId": "proceed_entity"
+    } ],
+    "repeatCount": 3,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vai avanti",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Procedi pure",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi procedere",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ok",
+      "parameterId": "affermative_entity",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "puoi procedere",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "ora",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ok",
+      "parameterId": "affermative_entity",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "procedi pure",
+      "parameterId": "proceed_entity",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

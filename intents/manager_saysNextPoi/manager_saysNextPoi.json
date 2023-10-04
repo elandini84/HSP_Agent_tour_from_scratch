@@ -1,0 +1,17 @@
+{
+  "name": "db9d3a2f-6566-43a4-bc80-807a29b1c5e3",
+  "displayName": "manager_saysNextPoi",
+  "parameters": [ {
+    "id": "poi_entity",
+    "entityType": "@poi_entity"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "manager",
+    "value": "manager"
+  }, {
+    "key": "says",
+    "value": "says"
+  } ],
+  "numTrainingPhrases": 6
+}

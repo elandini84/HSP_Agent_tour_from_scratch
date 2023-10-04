@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "more",
+    "synonyms": [ "a bit more", "more", "something more" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "details",
+    "synonyms": [ "details", "further detail", "further details", "further informations", "more details", "more information", "other detail", "other details", "other information" ],
+    "languageCode": "en-us"
+  } ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "a50f24e2-d873-4f02-860b-7a418c825c46",
+  "displayName": "manager_saysResetDialog",
+  "priority": 500000,
+  "labels": [ {
+    "key": "command",
+    "value": "command"
+  }, {
+    "key": "manager",
+    "value": "manager"
+  } ],
+  "numTrainingPhrases": 2
+}

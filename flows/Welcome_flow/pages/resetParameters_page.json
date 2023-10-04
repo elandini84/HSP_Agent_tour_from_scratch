@@ -1,0 +1,24 @@
+{
+  "name": "002a5ff1-a931-48d3-b779-f03f1239bd99",
+  "displayName": "resetParameters_page",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "condition": "$session.params.paramReset_entity = \"resetAndBack\"",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "subject_entity",
+        "value": ""
+      }, {
+        "parameter": "reinforcing_entity",
+        "value": ""
+      }, {
+        "parameter": "request_entity",
+        "value": ""
+      } ]
+    },
+    "targetPage": "qAndA_page",
+    "name": "be3655e2-dbdb-4f2d-adb2-6c0a0bd81d4d"
+  } ]
+}

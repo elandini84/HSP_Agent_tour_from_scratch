@@ -1,0 +1,17 @@
+{
+  "name": "f4b5d1ae-66fa-43b5-8499-262ff659084a",
+  "displayName": "human_setsLanguage",
+  "parameters": [ {
+    "id": "language",
+    "entityType": "@sys.language"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "command",
+    "value": "command"
+  }, {
+    "key": "human",
+    "value": "human"
+  } ],
+  "numTrainingPhrases": 6
+}

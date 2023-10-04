@@ -1,0 +1,55 @@
+{
+  "entities": [ {
+    "value": "opera",
+    "synonyms": [ "allestimento", "ceramica", "opera", "quadro", "scultura", "vaso" ],
+    "languageCode": "it"
+  }, {
+    "value": "author",
+    "synonyms": [ "artista", "autore", "pittore", "scultore" ],
+    "languageCode": "it"
+  }, {
+    "value": "epoch",
+    "synonyms": [ "epoca", "periodo", "periodo storico" ],
+    "languageCode": "it"
+  }, {
+    "value": "functioning",
+    "synonyms": [ "funziona", "funzionamento" ],
+    "languageCode": "it"
+  }, {
+    "value": "technique",
+    "synonyms": [ "metodo", "metodologia", "tecnica" ],
+    "languageCode": "it"
+  }, {
+    "value": "museum",
+    "synonyms": [ "edificio", "museo", "palazzo" ],
+    "languageCode": "it"
+  }, {
+    "value": "main piece",
+    "synonyms": [ "opera principale", "pezzo principale" ],
+    "languageCode": "it"
+  }, {
+    "value": "project",
+    "synonyms": [ "progetto" ],
+    "languageCode": "it"
+  }, {
+    "value": "r1",
+    "synonyms": [ "erre uno", "r1", "robot", "te", "ti", "ti chiami", "tu", "sei" ],
+    "languageCode": "it"
+  }, {
+    "value": "creator",
+    "synonyms": [ "costruttore", "creatore", "ti ha costruito", "ti ha creato" ],
+    "languageCode": "it"
+  }, {
+    "value": "etá",
+    "synonyms": [ "anni", "etá" ],
+    "languageCode": "it"
+  }, {
+    "value": "joke",
+    "synonyms": [ "barzelletta", "qualcosa di divertente" ],
+    "languageCode": "it"
+  }, {
+    "value": "futuro",
+    "synonyms": [ "obiettivi futuri", "prossimi obiettivi" ],
+    "languageCode": "it"
+  } ]
+}

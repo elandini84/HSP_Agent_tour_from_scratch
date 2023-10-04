@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "nextopera",
+    "synonyms": [ "nextopera" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "samelocation",
+    "synonyms": [ "samelocation" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "startpoi",
+    "synonyms": [ "startpoi" ],
+    "languageCode": "en-us"
+  } ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "022fb12e-4709-4c68-8b76-12c5e3754804",
+  "displayName": "human_saysNo",
+  "parameters": [ {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "answer",
+    "value": "answer"
+  }, {
+    "key": "human",
+    "value": "human"
+  } ],
+  "numTrainingPhrases": 19
+}

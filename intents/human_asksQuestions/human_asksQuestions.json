@@ -1,0 +1,26 @@
+{
+  "name": "dee3113c-71e4-4947-b670-69e243836968",
+  "displayName": "human_asksQuestions",
+  "parameters": [ {
+    "id": "request_entity",
+    "entityType": "@request_entity"
+  }, {
+    "id": "subject_entity",
+    "entityType": "@subject_entity"
+  }, {
+    "id": "reinforcing_entity",
+    "entityType": "@reinforcing_entity"
+  }, {
+    "id": "request_entity1",
+    "entityType": "@request_entity"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "poi",
+    "value": "poi"
+  } ],
+  "numTrainingPhrases": 60
+}

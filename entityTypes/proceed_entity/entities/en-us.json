@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "proceed",
+    "synonyms": [ "proceed" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "go on",
+    "synonyms": [ "go", "go on", "go ahead" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "continue",
+    "synonyms": [ "continue" ],
+    "languageCode": "en-us"
+  } ]
+}

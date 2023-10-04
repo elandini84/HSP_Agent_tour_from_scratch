@@ -1,0 +1,13 @@
+{
+  "name": "e39c8151-9075-475b-8354-529a0cb2b627",
+  "displayName": "manager_saysSkipPage",
+  "priority": 500000,
+  "labels": [ {
+    "key": "command",
+    "value": "command"
+  }, {
+    "key": "manager",
+    "value": "manager"
+  } ],
+  "numTrainingPhrases": 2
+}
