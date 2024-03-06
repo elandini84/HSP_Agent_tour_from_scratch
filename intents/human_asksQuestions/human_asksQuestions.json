@@ -10,9 +10,6 @@
   }, {
     "id": "reinforcing_entity",
     "entityType": "@reinforcing_entity"
-  }, {
-    "id": "request_entity1",
-    "entityType": "@request_entity"
   } ],
   "priority": 500000,
   "labels": [ {

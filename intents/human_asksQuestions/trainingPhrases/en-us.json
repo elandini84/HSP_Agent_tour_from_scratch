@@ -196,7 +196,6 @@
       "auto": true
     }, {
       "text": "can you tell me",
-      "parameterId": "request_entity1",
       "auto": true
     }, {
       "text": "?",
@@ -239,7 +238,6 @@
       "auto": true
     }, {
       "text": "can you tell me",
-      "parameterId": "request_entity1",
       "auto": true
     }, {
       "text": " about the ",
@@ -333,7 +331,6 @@
       "auto": true
     }, {
       "text": "how",
-      "parameterId": "request_entity1",
       "auto": true
     }, {
       "text": " it ",
@@ -384,7 +381,6 @@
       "auto": true
     }, {
       "text": "how",
-      "parameterId": "request_entity1",
       "auto": true
     }, {
       "text": " it ",

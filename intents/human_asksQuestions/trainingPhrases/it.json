@@ -62,7 +62,6 @@
       "text": " "
     }, {
       "text": "hai",
-      "parameterId": "request_entity1",
       "auto": true
     }, {
       "text": "?"
@@ -292,7 +291,6 @@
       "text": " "
     }, {
       "text": "come",
-      "parameterId": "request_entity1",
       "auto": true
     }, {
       "text": " "
