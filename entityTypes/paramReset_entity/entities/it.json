@@ -1,0 +1,19 @@
+{
+  "entities": [ {
+    "value": "resetAndBack",
+    "synonyms": [ "resetAndBack" ],
+    "languageCode": "it"
+  }, {
+    "value": "resetAndGo",
+    "synonyms": [ "resetAndGo" ],
+    "languageCode": "it"
+  }, {
+    "value": "resetAndStart",
+    "synonyms": [ "resetAndStart" ],
+    "languageCode": "it"
+  }, {
+    "value": "resetAndLanguage",
+    "synonyms": [ "resetAndLanguage" ],
+    "languageCode": "it"
+  } ]
+}

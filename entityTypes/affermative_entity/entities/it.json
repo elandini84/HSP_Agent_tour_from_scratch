@@ -1,10 +1,10 @@
 {
   "entities": [ {
-    "value": "si",
+    "value": "yes",
     "synonyms": [ "sí", "sí certo", "sí grazie", "sí per favore" ],
     "languageCode": "it"
   }, {
-    "value": "certo",
+    "value": "sure",
     "synonyms": [ "certamente", "certo" ],
     "languageCode": "it"
   }, {

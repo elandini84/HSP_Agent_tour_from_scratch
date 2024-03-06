@@ -40,7 +40,7 @@
     "synonyms": [ "costruttore", "creatore", "ti ha costruito", "ti ha creato" ],
     "languageCode": "it"
   }, {
-    "value": "etá",
+    "value": "age",
     "synonyms": [ "anni", "etá" ],
     "languageCode": "it"
   }, {
@@ -48,7 +48,7 @@
     "synonyms": [ "barzelletta", "qualcosa di divertente" ],
     "languageCode": "it"
   }, {
-    "value": "futuro",
+    "value": "future",
     "synonyms": [ "obiettivi futuri", "prossimi obiettivi" ],
     "languageCode": "it"
   } ]

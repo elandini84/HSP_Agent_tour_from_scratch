@@ -1,14 +1,14 @@
 {
   "entities": [ {
-    "value": "procedi",
+    "value": "proceed",
     "synonyms": [ "procedi", "procedi pure", "puoi procedere" ],
     "languageCode": "it"
   }, {
-    "value": "avanti",
+    "value": "go on",
     "synonyms": [ "avanti", "vai", "vai avanti", "vai pure avanti" ],
     "languageCode": "it"
   }, {
-    "value": "continua",
+    "value": "continue",
     "synonyms": [ "continua", "continua pure", "continuare" ],
     "languageCode": "it"
   } ]
