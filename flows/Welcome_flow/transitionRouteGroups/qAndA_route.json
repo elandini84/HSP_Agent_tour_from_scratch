@@ -4,6 +4,10 @@
   "transitionRoutes": [ {
     "intent": "human_asksQuestions",
     "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "paramReset_entity",
+        "value": "resetAndBack"
+      } ],
       "messages": [ {
           "text": {
             "text": [ "(explain_$session.params.subject_entity)" ]
