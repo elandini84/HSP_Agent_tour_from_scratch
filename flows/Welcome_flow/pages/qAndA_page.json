@@ -2,173 +2,26 @@
   "name": "ca95f5a4-8df1-463c-a4af-39bef55158c0",
   "displayName": "qAndA_page",
   "form": {
-  
+
   },
   "entryFulfillment": {
-  
+
   },
   "transitionRoutes": [ {
     "intent": "human_asksQuestions",
     "triggerFulfillment": {
-      "setParameterActions": [ {
-        "parameter": "paramReset_entity",
-        "value": "resetAndBack"
-      } ],
-      "conditionalCases": [ {
-        "cases": [ {
-          "condition": "$session.params.subject_entity = \"project\"",
-          "caseContent": [ {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralProject" ]
-              },
-              "languageCode": "en-us"
-            }
-          }, {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralProject" ]
-              },
-              "languageCode": "it"
-            }
-          } ]
+      "messages": [ {
+          "text": {
+            "text": [ "(explain_$session.params.subject_entity)" ]
+          },
+          "languageCode": "en-us"
         }, {
-          "condition": "$session.params.subject_entity = \"r1\"",
-          "caseContent": [ {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralRobot" ]
-              },
-              "languageCode": "en-us"
-            }
-          }, {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralRobot" ]
-              },
-              "languageCode": "it"
-            }
-          } ]
-        }, {
-          "condition": "$session.params.subject_entity = \"creator\"",
-          "caseContent": [ {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralRobotMaker" ]
-              },
-              "languageCode": "en-us"
-            }
-          }, {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralRobotMaker" ]
-              },
-              "languageCode": "it"
-            }
-          } ]
-        }, {
-          "condition": "$session.params.subject_entity = \"age\"",
-          "caseContent": [ {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralRobotAge" ]
-              },
-              "languageCode": "en-us"
-            }
-          }, {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralRobotAge" ]
-              },
-              "languageCode": "it"
-            }
-          } ]
-        }, {
-          "condition": "$session.params.subject_entity = \"museum\"",
-          "caseContent": [ {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralMuseum" ]
-              },
-              "languageCode": "en-us"
-            }
-          }, {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralMuseum" ]
-              },
-              "languageCode": "it"
-            }
-          } ]
-        }, {
-          "condition": "$session.params.subject_entity = \"emotions\"",
-          "caseContent": [ {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralRobotEmotions" ]
-              },
-              "languageCode": "en-us"
-            }
-          }, {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralRobotEmotions" ]
-              },
-              "languageCode": "it"
-            }
-          } ]
-        }, {
-          "condition": "$session.params.subject_entity = \"bathroom\"",
-          "caseContent": [ {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralToilet" ]
-              },
-              "languageCode": "en-us"
-            }
-          }, {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralToilet" ]
-              },
-              "languageCode": "it"
-            }
-          } ]
-        }, {
-          "condition": "$session.params.subject_entity = \"joke\"",
-          "caseContent": [ {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralJoke" ]
-              },
-              "languageCode": "en-us"
-            }
-          }, {
-            "message": {
-              "text": {
-                "text": [ "explainGeneralJoke" ]
-              },
-              "languageCode": "it"
-            }
-          } ]
-        }, {
-          "caseContent": [ {
-            "message": {
-              "text": {
-                "text": [ "fallback" ]
-              },
-              "languageCode": "en-us"
-            }
-          }, {
-            "message": {
-              "text": {
-                "text": [ "fallback" ]
-              },
-              "languageCode": "it"
-            }
-          } ]
-        } ]
-      } ]
+          "text": {
+            "text": [ "(explain_$session.params.subject_entity)" ]
+          },
+          "languageCode": "it"
+        }
+      ]
     },
     "targetPage": "resetParameters_page",
     "name": "6234148f-9a0b-4638-9555-639b1d150091"
