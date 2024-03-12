@@ -6,7 +6,7 @@
     "entityType": "@request_entity"
   }, {
     "id": "subject_entity",
-    "entityType": "@subject_entity"
+    "entityType": "@opera_entity"
   }, {
     "id": "reinforcing_entity",
     "entityType": "@reinforcing_entity"

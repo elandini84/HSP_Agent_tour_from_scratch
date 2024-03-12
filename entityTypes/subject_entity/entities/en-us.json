@@ -1,31 +1,11 @@
 {
   "entities": [ {
-    "value": "opera",
-    "synonyms": [ "artwork", "opera", "painting", "sculpture", "statue", "vase" ],
-    "languageCode": "en-us"
-  }, {
-    "value": "author",
-    "synonyms": [ "artist", "author", "painter", "sculptor" ],
-    "languageCode": "en-us"
-  }, {
-    "value": "epoch",
-    "synonyms": [ "epoch", "historical period", "period" ],
-    "languageCode": "en-us"
-  }, {
     "value": "functioning",
     "synonyms": [ "functioning", "operation", "work" ],
     "languageCode": "en-us"
   }, {
-    "value": "technique",
-    "synonyms": [ "art", "methodology", "procedure", "technique" ],
-    "languageCode": "en-us"
-  }, {
     "value": "museum",
     "synonyms": [ "building", "museum", "palace" ],
-    "languageCode": "en-us"
-  }, {
-    "value": "main piece",
-    "synonyms": [ "main artwork", "main piece" ],
     "languageCode": "en-us"
   }, {
     "value": "project",
