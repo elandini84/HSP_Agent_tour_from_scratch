@@ -3,19 +3,6 @@
   "displayName": "Welcome_flow",
   "transitionRoutes": [ {
     "condition": "$session.params.skipStart = true",
-    "triggerFulfillment": {
-      "messages": [ {
-        "text": {
-          "text": [ "greetings" ]
-        },
-        "languageCode": "it"
-      }, {
-        "text": {
-          "text": [ "greetings" ]
-        },
-        "languageCode": "en-us"
-      } ]
-    },
     "targetPage": "qAndA_page",
     "name": "500d93e8-4889-4f09-be68-c6dc69bac4fa"
   } ],
@@ -24,17 +11,17 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "Non penso di seguirti. Potresti ripetere?", "Potresti dirlo ancora una volta?", "Potresti essere più specifico?", "Non ho capito bene. Potresti ripetere?", "Non ti ho sentito bene. Puoi ripetere?" ]
+          "text": [ "(cmd_unknown)" ]
         },
         "languageCode": "it"
       }, {
         "text": {
-          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+          "text": [ "(cmd_unknown)" ]
         },
         "languageCode": "en-us"
       }, {
         "text": {
-          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+          "text": [ "(cmd_unknown)" ]
         },
         "languageCode": "en"
       } ]
@@ -45,17 +32,17 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "Non penso di seguirti. Potresti ripetere?", "Potresti dirlo ancora una volta?", "Potresti essere più specifico?", "Non ho capito bene. Potresti ripetere?", "Non ti ho sentito bene. Puoi ripetere?" ]
+          "text": [ "(cmd_empty)" ]
         },
         "languageCode": "it"
       }, {
         "text": {
-          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+          "text": [ "(cmd_empty)" ]
         },
         "languageCode": "en-us"
       }, {
         "text": {
-          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+          "text": [ "(cmd_empty)" ]
         },
         "languageCode": "en"
       } ]

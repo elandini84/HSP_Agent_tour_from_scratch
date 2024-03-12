@@ -1,0 +1,798 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "I want to know "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "vase",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can "
+    }, {
+      "text": "you"
+    }, {
+      "text": " "
+    }, {
+      "text": "give me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some "
+    }, {
+      "text": "more details"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "additional information",
+      "parameterId": "reinforcing_entity"
+    }, {
+      "text": " about this "
+    }, {
+      "text": "statue",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "sculpture",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm curious about this "
+    }, {
+      "text": "painting",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can "
+    }, {
+      "text": "you"
+    }, {
+      "text": " "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "more information",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you "
+    }, {
+      "text": "give me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some "
+    }, {
+      "text": "more details",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "artwork",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I want to know "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "vase",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can "
+    }, {
+      "text": "you"
+    }, {
+      "text": " "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " additional information?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "statue",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm interested in learning "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "sculpture",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can you "
+    }, {
+      "text": "help me",
+      "parameterId": "request_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some "
+    }, {
+      "text": "additional information",
+      "parameterId": "reinforcing_entity"
+    }, {
+      "text": " about this "
+    }, {
+      "text": "painting",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I would like to "
+    }, {
+      "text": "know",
+      "parameterId": "request_entity"
+    }, {
+      "text": " "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "artwork",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you explain the meaning behind this artist's work?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could "
+    }, {
+      "text": "you"
+    }, {
+      "text": " "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some information about the social issues of this historical period?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " about the different materials used in this "
+    }, {
+      "text": "sculptor",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": "'s "
+    }, {
+      "text": "work"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I want to know "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "artist",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": "'s style, can "
+    }, {
+      "text": "you"
+    }, {
+      "text": " explain it to me?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some context for the political climate of this "
+    }, {
+      "text": "historical period",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " about the influences on this "
+    }, {
+      "text": "painter",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "'s work?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can "
+    }, {
+      "text": "you"
+    }, {
+      "text": " "
+    }, {
+      "text": "give me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some examples of "
+    }, {
+      "text": "sculptures"
+    }, {
+      "text": " produced during this time "
+    }, {
+      "text": "period"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm interested in the cultural significance of this "
+    }, {
+      "text": "period",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can "
+    }, {
+      "text": "you"
+    }, {
+      "text": " "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some information?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " about the impact of this "
+    }, {
+      "text": "author",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "'s work?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you "
+    }, {
+      "text": "explain",
+      "parameterId": "request_entity"
+    }, {
+      "text": " the process of this "
+    }, {
+      "text": "technique",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I want to know "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "artist",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", "
+    }, {
+      "text": "can you tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some context for this "
+    }, {
+      "text": "historical period",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "painter",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm interested in learning about this sculpting "
+    }, {
+      "text": "technique",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can you "
+    }, {
+      "text": "help me",
+      "parameterId": "request_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you "
+    }, {
+      "text": "give me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some "
+    }, {
+      "text": "details",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "historical period",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What can you tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " about the works of this "
+    }, {
+      "text": "author",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " about the significance of this "
+    }, {
+      "text": "artist",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I want to know "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this specific "
+    }, {
+      "text": "historical period",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can you "
+    }, {
+      "text": "help me",
+      "parameterId": "request_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some background information about this "
+    }, {
+      "text": "sculptor",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " about the "
+    }, {
+      "text": "technique",
+      "parameterId": "subject_entity"
+    }, {
+      "text": " used by artists?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm curious about the life of this "
+    }, {
+      "text": "author",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can you "
+    }, {
+      "text": "share some information",
+      "parameterId": "request_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " about the historical context of this "
+    }, {
+      "text": "period",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "more information",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "painter",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I want to know "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "technique",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can you "
+    }, {
+      "text": "explain",
+      "parameterId": "request_entity"
+    }, {
+      "text": " it to me?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you "
+    }, {
+      "text": "give me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some "
+    }, {
+      "text": "details",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "artist",
+      "parameterId": "subject_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm curious about this "
+    }, {
+      "text": "sculptor",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can "
+    }, {
+      "text": "you"
+    }, {
+      "text": " "
+    }, {
+      "text": "provide",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " some information?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What can you tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "historical period",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm interested in learning about this "
+    }, {
+      "text": "painter",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": ", can you "
+    }, {
+      "text": "help me",
+      "parameterId": "request_entity"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you tell me",
+      "parameterId": "request_entity",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "author",
+      "parameterId": "subject_entity",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

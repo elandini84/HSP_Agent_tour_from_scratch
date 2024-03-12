@@ -61,8 +61,7 @@
     }, {
       "text": " "
     }, {
-      "text": "hai",
-      "auto": true
+      "text": "hai"
     }, {
       "text": "?"
     } ],
@@ -200,28 +199,6 @@
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Cosa puoi dirmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " "
-    }, {
-      "text": "di piú",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " sull'"
-    }, {
-      "text": "opera",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
       "text": "Dammi",
       "parameterId": "request_entity",
       "auto": true
@@ -231,22 +208,6 @@
       "text": "maggiori dettagli",
       "parameterId": "reinforcing_entity",
       "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi parlarmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " dell'"
-    }, {
-      "text": "autore",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "it"
@@ -290,8 +251,7 @@
     }, {
       "text": " "
     }, {
-      "text": "come",
-      "auto": true
+      "text": "come"
     }, {
       "text": " "
     }, {
@@ -352,86 +312,6 @@
       "text": "di piú",
       "parameterId": "reinforcing_entity",
       "auto": true
-    }, {
-      "text": " sul "
-    }, {
-      "text": "pezzo principale",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Dimmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " "
-    }, {
-      "text": "di piú",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " sull'"
-    }, {
-      "text": "epoca",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Dimmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " "
-    }, {
-      "text": "di piú",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " sulla "
-    }, {
-      "text": "tecnica",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Dimmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " "
-    }, {
-      "text": "di piú",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " sull'"
-    }, {
-      "text": "autore",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Dimmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " "
-    }, {
-      "text": "di piú",
-      "parameterId": "reinforcing_entity",
-      "auto": true
     } ],
     "repeatCount": 1,
     "languageCode": "it"
@@ -444,62 +324,6 @@
       "text": " degli "
     }, {
       "text": "obiettivi futuri",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Parlami",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " del "
-    }, {
-      "text": "pezzo principale",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Parlami",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " dell'"
-    }, {
-      "text": "epoca",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Parlami",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " della "
-    }, {
-      "text": "tecnica",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Parlami",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " dell'"
-    }, {
-      "text": "autore",
       "parameterId": "subject_entity",
       "auto": true
     } ],

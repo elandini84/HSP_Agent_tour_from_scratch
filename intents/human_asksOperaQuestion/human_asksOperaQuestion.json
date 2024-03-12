@@ -1,6 +1,6 @@
 {
-  "name": "dee3113c-71e4-4947-b670-69e243836968",
-  "displayName": "human_asksQuestions",
+  "name": "0123eab9-9882-4eb7-8230-e608f8dbf260",
+  "displayName": "human_asksOperaQuestion",
   "parameters": [ {
     "id": "request_entity",
     "entityType": "@request_entity"
@@ -13,11 +13,11 @@
   } ],
   "priority": 500000,
   "labels": [ {
+    "key": "ask",
+    "value": "ask"
+  }, {
     "key": "human",
     "value": "human"
-  }, {
-    "key": "poi",
-    "value": "poi"
   } ],
-  "numTrainingPhrases": 40
+  "numTrainingPhrases": 78
 }

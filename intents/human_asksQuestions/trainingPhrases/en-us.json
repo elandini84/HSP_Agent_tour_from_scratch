@@ -5,15 +5,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " something about ",
-      "auto": true
+      "text": " something about "
     }, {
       "text": "you",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": ".",
-      "auto": true
+      "text": "."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -23,15 +21,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " are ",
-      "auto": true
+      "text": " are "
     }, {
       "text": "you",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -41,15 +37,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": "'s ",
-      "auto": true
+      "text": "'s "
     }, {
       "text": "your name",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -59,15 +53,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " old are ",
-      "auto": true
+      "text": " old are "
     }, {
       "text": "you",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -77,15 +69,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " is your ",
-      "auto": true
+      "text": " is your "
     }, {
       "text": "creator",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -95,15 +85,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " is your ",
-      "auto": true
+      "text": " is your "
     }, {
       "text": "maker",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -113,15 +101,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " something about your ",
-      "auto": true
+      "text": " something about your "
     }, {
       "text": "creator",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -131,15 +117,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " built ",
-      "auto": true
+      "text": " built "
     }, {
       "text": "you",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -149,15 +133,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
       "text": "created you",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -167,15 +149,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
       "text": "more",
       "parameterId": "reinforcing_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -185,21 +165,17 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
       "text": "more",
       "parameterId": "reinforcing_entity",
       "auto": true
     }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
-      "text": "can you tell me",
-      "auto": true
+      "text": "can you tell me"
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -209,46 +185,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " does it ",
-      "auto": true
+      "text": " does it "
     }, {
       "text": "work",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "What",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " ",
-      "auto": true
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " ",
-      "auto": true
-    }, {
-      "text": "can you tell me",
-      "auto": true
-    }, {
-      "text": " about the ",
-      "auto": true
-    }, {
-      "text": "artwork",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -258,29 +201,10 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
       "text": "more details",
       "parameterId": "reinforcing_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the ",
-      "auto": true
-    }, {
-      "text": "author",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -291,15 +215,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " about ",
-      "auto": true
+      "text": " about "
     }, {
       "text": "future goals",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -309,15 +231,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " are the ",
-      "auto": true
+      "text": " are the "
     }, {
       "text": "future goals",
       "parameterId": "subject_entity",
       "auto": true
     }, {
-      "text": "?",
-      "auto": true
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -327,14 +247,11 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
-      "text": "how",
-      "auto": true
+      "text": "how"
     }, {
-      "text": " it ",
-      "auto": true
+      "text": " it "
     }, {
       "text": "works",
       "parameterId": "subject_entity",
@@ -348,15 +265,13 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
       "text": "more",
       "parameterId": "reinforcing_entity",
       "auto": true
     }, {
-      "text": " about ",
-      "auto": true
+      "text": " about "
     }, {
       "text": "future goals",
       "parameterId": "subject_entity",
@@ -370,21 +285,17 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
       "text": "more",
       "parameterId": "reinforcing_entity",
       "auto": true
     }, {
-      "text": " about ",
-      "auto": true
+      "text": " about "
     }, {
-      "text": "how",
-      "auto": true
+      "text": "how"
     }, {
-      "text": " it ",
-      "auto": true
+      "text": " it "
     }, {
       "text": "works",
       "parameterId": "subject_entity",
@@ -398,96 +309,7 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " ",
-      "auto": true
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about the ",
-      "auto": true
-    }, {
-      "text": "main piece",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " ",
-      "auto": true
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about the time ",
-      "auto": true
-    }, {
-      "text": "period",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " ",
-      "auto": true
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about the ",
-      "auto": true
-    }, {
-      "text": "technique",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " ",
-      "auto": true
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about the ",
-      "auto": true
-    }, {
-      "text": "author",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
       "text": "more",
       "parameterId": "reinforcing_entity",
@@ -501,70 +323,9 @@
       "parameterId": "request_entity",
       "auto": true
     }, {
-      "text": " about ",
-      "auto": true
+      "text": " about "
     }, {
       "text": "future goals",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the ",
-      "auto": true
-    }, {
-      "text": "main piece",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the ",
-      "auto": true
-    }, {
-      "text": "epoch",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the ",
-      "auto": true
-    }, {
-      "text": "technique",
-      "parameterId": "subject_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the ",
-      "auto": true
-    }, {
-      "text": "author",
       "parameterId": "subject_entity",
       "auto": true
     } ],

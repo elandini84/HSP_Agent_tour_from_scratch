@@ -1,7 +1,7 @@
 {
   "entities": [ {
     "value": "tell",
-    "synonyms": [ "cosa puoi dirmi", "dimmi", "parlami", "puoi parlarmi", "puoi dirmi?" ],
+    "synonyms": [ "cosa puoi dirmi", "dimmi", "parlami", "puoi dirmi?", "puoi parlarmi" ],
     "languageCode": "it"
   }, {
     "value": "identity",
@@ -9,7 +9,7 @@
     "languageCode": "it"
   }, {
     "value": "provide me",
-    "synonyms": [ "dammi", "forniscimi" ],
+    "synonyms": [ "dammi", "forniscimi", "fornirmi", "darmi" ],
     "languageCode": "it"
   }, {
     "value": "specify",
@@ -18,6 +18,10 @@
   }, {
     "value": "possess",
     "synonyms": [ "avresti mica", "hai" ],
+    "languageCode": "it"
+  }, {
+    "value": "help",
+    "synonyms": [ "puoi aiutarmi" ],
     "languageCode": "it"
   } ]
 }
