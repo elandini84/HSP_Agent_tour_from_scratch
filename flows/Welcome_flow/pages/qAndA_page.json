@@ -9,25 +9,42 @@
   },
   "transitionRoutes": [ {
     "intent": "human_asksQuestions",
+    "condition": "$session.params.subject_entity != NULL",
     "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(explain_$session.params.subject_entity)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(explain_$session.params.subject_entity)" ]
+        },
+        "languageCode": "it"
+      } ],
       "setParameterActions": [ {
         "parameter": "paramReset_entity",
         "value": "resetAndBack"
-      } ],
-      "messages": [ {
-          "text": {
-            "text": [ "(explain_$session.params.subject_entity)" ]
-          },
-          "languageCode": "en-us"
-        }, {
-          "text": {
-            "text": [ "(explain_$session.params.subject_entity)" ]
-          },
-          "languageCode": "it"
-        }
-      ]
+      } ]
     },
     "targetPage": "resetParameters_page",
     "name": "6234148f-9a0b-4638-9555-639b1d150091"
+  }, {
+    "intent": "human_asksQuestions",
+    "condition": "$session.params.subject_entity = NULL",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(cmd_unknown)" ]
+        },
+        "languageCode": "en-us"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "paramReset_entity",
+        "value": "resetAndBack"
+      } ]
+    },
+    "targetPage": "resetParameters_page",
+    "name": "c92ecf78-6bcf-4350-813a-eadaecb986f4"
   } ]
 }
