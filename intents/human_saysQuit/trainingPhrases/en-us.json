@@ -1,147 +1,281 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": " may "
-    }, {
-      "text": "proceed",
-      "parameterId": "proceed_entity",
-      "auto": true
+      "text": "Let's end the tour and relax by the pool."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": " can "
-    }, {
-      "text": "continue",
-      "parameterId": "proceed_entity",
-      "auto": true
-    }, {
-      "text": " now"
+      "text": "I'd like to end the tour and try some local food."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
+      "text": "Let's bring the tour to a close and "
     }, {
-      "text": " can "
+      "text": "go"
     }, {
-      "text": "proceed",
-      "parameterId": "proceed_entity",
-      "auto": true
+      "text": " shopping."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": " can "
-    }, {
-      "text": "continue",
-      "parameterId": "proceed_entity",
-      "auto": true
+      "text": "I'm ready to end the tour and take a swim."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "Ok",
-      "parameterId": "affermative_entity",
-      "auto": true
+      "text": "Let's finish the tour and "
     }, {
-      "text": ", "
+      "text": "go"
     }, {
-      "text": "go on",
-      "parameterId": "proceed_entity",
-      "auto": true
+      "text": " to the amusement park."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": " can "
-    }, {
-      "text": "proceed",
-      "parameterId": "proceed_entity",
-      "auto": true
-    }, {
-      "text": " now"
+      "text": "I think we're done with the tour, let's end it."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
+      "text": "Let's conclude the tour and "
     }, {
-      "text": " can "
+      "text": "go"
     }, {
-      "text": "go on",
-      "parameterId": "proceed_entity",
-      "auto": true
+      "text": " see a movie."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "Go ahead",
-      "parameterId": "proceed_entity",
-      "auto": true
+      "text": "I'd like to end the tour and take a break from walking."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "Ok",
-      "parameterId": "affermative_entity",
-      "auto": true
-    }, {
-      "text": ", "
-    }, {
-      "text": "you",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": " can "
-    }, {
-      "text": "proceed",
-      "parameterId": "proceed_entity",
-      "auto": true
-    }, {
-      "text": " now"
+      "text": "Let's call it quits on the tour."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "Ok",
-      "parameterId": "affermative_entity",
-      "auto": true
+      "text": "I'm ready to end the tour and explore on our own."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's finish the tour and "
     }, {
-      "text": ", "
+      "text": "go"
     }, {
-      "text": "go ahead",
-      "parameterId": "proceed_entity",
-      "auto": true
+      "text": " back to the hotel for a nap."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I think we've seen enough, let's end the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's conclude the tour and "
+    }, {
+      "text": "go"
+    }, {
+      "text": " for a walk."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'd like to end the tour and grab a drink."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's end the tour and check out some "
+    }, {
+      "text": "museums"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I think it's time to end the tour and rest."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's end the tour and "
+    }, {
+      "text": "go"
+    }, {
+      "text": " to the beach."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'd like to end the tour and take some photos."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's finish the tour and "
+    }, {
+      "text": "go"
+    }, {
+      "text": " shopping."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm ready to end the tour and do something else."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's conclude the tour here and explore the city on our own."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'd like to end the tour and take a break."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's end the tour and grab some food."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's call it a day on the tour and relax."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I think it's time to wrap up the tour and "
+    }, {
+      "text": "go"
+    }, {
+      "text": " back to the hotel."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's bring the tour to an end and explore on our own."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm ready to end the tour and move on."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's finish the tour and head back."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'd like to conclude the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's bring the tour to a close."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I don't think we want to see anymore, let's end the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's skip the rest of the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "The tour has been great, but let's end it now."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm ready to end the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's finish the tour here."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "It's time for us to wrap up the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I don't think we want to "
+    }, {
+      "text": "continue"
+    }, {
+      "text": " the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'd like to end the tour now, please."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's cut the tour short."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I think it's time to call it a day on the tour."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"

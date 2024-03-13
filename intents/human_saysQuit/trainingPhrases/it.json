@@ -1,103 +1,586 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
-      "text": "Puoi ",
+      "text": "Chiudiamo ",
       "auto": true
     }, {
-      "text": "continuare",
-      "parameterId": "proceed_entity",
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e ci rilassiamo a bordo ",
+      "auto": true
+    }, {
+      "text": "piscina",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei finire ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e assaggiare del cibo ",
+      "auto": true
+    }, {
+      "text": "locale",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Chiudiamo qui e andiamo a fare ",
+      "auto": true
+    }, {
+      "text": "shopping",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono pronto/a a terminare ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e fare ",
+      "auto": true
+    }, {
+      "text": "una",
+      "auto": true
+    }, {
+      "text": " nuotata.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Finiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e andiamo al ",
+      "auto": true
+    }, {
+      "text": "parco divertimenti",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Penso che abbiamo finito ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ", chiudiamolo.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Concludiamo la visita e andiamo al ",
+      "auto": true
+    }, {
+      "text": "cinema",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei finire ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e riposarmi dal camminare.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Chiudiamo qui.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono pronto/a a terminare ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e girare da solo/a.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Finiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e torniamo in ",
+      "auto": true
+    }, {
+      "text": "albergo per",
       "auto": true
     }, {
       "text": " ",
       "auto": true
     }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " riposino pomeridiano.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Abbiamo visto abbastanza, finiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Concludiamo la visita e facciamo ",
+      "auto": true
+    }, {
+      "text": "una",
+      "auto": true
+    }, {
+      "text": " passeggiata.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei terminare ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e prendere ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " drink.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Chiudiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e visitiamo alcuni ",
+      "auto": true
+    }, {
+      "text": "musei",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Penso che sia ",
+      "auto": true
+    }, {
       "text": "ora",
       "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Continua pure",
-      "parameterId": "proceed_entity",
+    }, {
+      "text": " di terminare ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e riposare.",
       "auto": true
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Puoi ",
+      "text": "Chiudiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e andiamo in spiaggia.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei finire il giro e scattare qualche foto.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Finiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e andiamo a fare ",
+      "auto": true
+    }, {
+      "text": "shopping",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono pronto/a a terminare ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e fare ",
+      "auto": true
+    }, {
+      "text": "qualcos'altro",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Concludiamo qui ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e poi potremo esplorare la città per conto nostro.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei interrompere ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e prendermi ",
+      "auto": true
+    }, {
+      "text": "una",
+      "auto": true
+    }, {
+      "text": " pausa.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Finiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e andiamo a ",
+      "auto": true
+    }, {
+      "text": "mangiare",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Chiudiamo la visita e rilassiamoci.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Penso che sia ",
+      "auto": true
+    }, {
+      "text": "ora",
+      "auto": true
+    }, {
+      "text": " di terminare ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e tornare in ",
+      "auto": true
+    }, {
+      "text": "albergo.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Concludiamo il giro e poi potremo esplorare da soli.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono pronto/a a terminare e andare ",
+      "auto": true
+    }, {
+      "text": "avanti",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Finiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": " e torniamo indietro.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei terminare la visita.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Chiudiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non credo che vogliamo vedere altro, concludiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Saltiamo il resto del ",
+      "auto": true
+    }, {
+      "text": "tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Il tour",
+      "auto": true
+    }, {
+      "text": " è stato fantastico, ma chiudiamolo ",
+      "auto": true
+    }, {
+      "text": "ora",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono pronto/a a terminare ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Finiamo ",
+      "auto": true
+    }, {
+      "text": "il tour qui",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "È ",
+      "auto": true
+    }, {
+      "text": "ora",
+      "auto": true
+    }, {
+      "text": " di concludere il giro.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non credo che vogliamo ",
       "auto": true
     }, {
       "text": "continuare",
-      "parameterId": "proceed_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Vai pure avanti",
-      "parameterId": "proceed_entity"
-    } ],
-    "repeatCount": 3,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Vai avanti",
-      "parameterId": "proceed_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Procedi pure",
-      "parameterId": "proceed_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi procedere",
-      "parameterId": "proceed_entity",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Ok",
-      "parameterId": "affermative_entity",
       "auto": true
     }, {
-      "text": ", ",
+      "text": " la visita.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei terminare ",
       "auto": true
     }, {
-      "text": "puoi procedere",
-      "parameterId": "proceed_entity",
+      "text": "il tour",
       "auto": true
     }, {
       "text": " ",
       "auto": true
     }, {
-      "text": "ora",
+      "text": "adesso",
+      "auto": true
+    }, {
+      "text": ", per favore.",
       "auto": true
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Ok",
-      "parameterId": "affermative_entity",
+      "text": "Potremmo abbreviare ",
       "auto": true
     }, {
-      "text": ", ",
+      "text": "il tour",
       "auto": true
     }, {
-      "text": "procedi pure",
-      "parameterId": "proceed_entity",
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Penso che sia ",
+      "auto": true
+    }, {
+      "text": "ora",
+      "auto": true
+    }, {
+      "text": " di concludere la visita.",
       "auto": true
     } ],
     "repeatCount": 1,

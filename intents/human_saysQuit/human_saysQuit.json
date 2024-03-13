@@ -1,16 +1,6 @@
 {
   "name": "777fd7fc-97cb-4536-a00c-7daab284d7e9",
   "displayName": "human_saysQuit",
-  "parameters": [ {
-    "id": "affermative_entity",
-    "entityType": "@affermative_entity"
-  }, {
-    "id": "proceed_entity",
-    "entityType": "@proceed_entity"
-  }, {
-    "id": "subject_entity",
-    "entityType": "@subject_entity"
-  } ],
   "priority": 500000,
   "labels": [ {
     "key": "command",
@@ -19,5 +9,5 @@
     "key": "human",
     "value": "human"
   } ],
-  "numTrainingPhrases": 19
+  "numTrainingPhrases": 80
 }
