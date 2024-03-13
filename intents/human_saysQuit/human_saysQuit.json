@@ -1,6 +1,6 @@
 {
   "name": "a1b2c3d4-e5f6-7g8h-9i1j-2k3l4m5n6opq",
-  "displayName": "human_saysProceed",
+  "displayName": "human_saysQuit",
   "parameters": [ {
     "id": "affermative_entity",
     "entityType": "@affermative_entity"
