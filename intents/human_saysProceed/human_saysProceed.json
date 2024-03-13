@@ -8,8 +8,8 @@
     "id": "proceed_entity",
     "entityType": "@proceed_entity"
   }, {
-    "id": "subject_entity",
-    "entityType": "@subject_entity"
+    "id": "reinforcing_entity",
+    "entityType": "@reinforcing_entity"
   } ],
   "priority": 500000,
   "labels": [ {
@@ -19,5 +19,5 @@
     "key": "human",
     "value": "human"
   } ],
-  "numTrainingPhrases": 19
+  "numTrainingPhrases": 68
 }

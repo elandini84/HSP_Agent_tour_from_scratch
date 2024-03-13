@@ -1,18 +1,333 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
-      "text": "Puoi ",
+      "text": "Non vediamo l'",
+      "auto": true
+    }, {
+      "text": "ora",
+      "auto": true
+    }, {
+      "text": " di vedere tutte le attrazioni, continuiamo con ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Siamo impressionati dal ",
+      "auto": true
+    }, {
+      "text": "tour",
+      "auto": true
+    }, {
+      "text": ", proseguiamo pure.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Stiamo apprezzando il giro, non fermiamoci proprio ",
+      "auto": true
+    }, {
+      "text": "ora",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ci stiamo divertendo molto con la guida, continuiamo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Siamo curiosi di vedere ",
+      "auto": true
+    }, {
+      "text": "cosa",
+      "auto": true
+    }, {
+      "text": " c'è dopo, continuiamo.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Siamo catturati dal ",
+      "auto": true
+    }, {
+      "text": "tour",
+      "auto": true
+    }, {
+      "text": ", proseguiamo.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non siamo pronti a fermarci, continuiamo con ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Siamo interessati a vedere tutto, continuiamo con la visita guidata."
+    } ],
+    "repeatCount": 2,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ci stiamo divertendo ",
+      "auto": true
+    }, {
+      "text": "un",
+      "auto": true
+    }, {
+      "text": " sacco, continuiamo con ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Siamo affascinati dal ",
+      "auto": true
+    }, {
+      "text": "tour",
+      "auto": true
+    }, {
+      "text": ", continuiamo pure.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vediamo tutte le attrazioni, siamo pronti a proseguire con ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vogliamo esplorare ",
+      "auto": true
+    }, {
+      "text": "di più",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": ", continuiamo con la visita guidata.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Siamo entusiasti di vedere ",
+      "auto": true
+    }, {
+      "text": "cosa",
+      "auto": true
+    }, {
+      "text": " c'è dopo, continuiamo con ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Stiamo apprezzando il giro, proseguiamo.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ci stiamo divertendo molto, continuiamo con ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Continuiamo a imparare e scoprire, siamo pronti a proseguire.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non vogliamo perderci niente, ",
+      "auto": true
+    }, {
+      "text": "procediamo",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " con la visita guidata.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non vediamo l'",
+      "auto": true
+    }, {
+      "text": "ora",
+      "auto": true
+    }, {
+      "text": " di scoprire ",
+      "auto": true
+    }, {
+      "text": "cosa",
+      "auto": true
+    }, {
+      "text": " c'è dopo, proseguiamo con ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non fermiamoci ",
+      "auto": true
+    }, {
+      "text": "adesso",
+      "auto": true
+    }, {
+      "text": ", vogliamo vedere altro.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ci sta piacendo ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ", proseguiamo pure.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Assolutamente, continuiamo il giro.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Siamo pronti a vedere altro, continuiamo con ",
+      "auto": true
+    }, {
+      "text": "il tour",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Siamo entusiasti di ",
       "auto": true
     }, {
       "text": "continuare",
       "parameterId": "proceed_entity",
       "auto": true
     }, {
-      "text": " ",
+      "text": " a esplorare, proseguiamo.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sì",
+      "parameterId": "affermative_entity",
       "auto": true
     }, {
-      "text": "ora",
+      "text": ", continuiamo la visita.",
       "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi "
+    }, {
+      "text": "continuare",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "ora"
     } ],
     "repeatCount": 1,
     "languageCode": "it"
@@ -26,8 +341,7 @@
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Puoi ",
-      "auto": true
+      "text": "Puoi "
     }, {
       "text": "continuare",
       "parameterId": "proceed_entity",
@@ -72,18 +386,15 @@
       "parameterId": "affermative_entity",
       "auto": true
     }, {
-      "text": ", ",
-      "auto": true
+      "text": ", "
     }, {
       "text": "puoi procedere",
       "parameterId": "proceed_entity",
       "auto": true
     }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
-      "text": "ora",
-      "auto": true
+      "text": "ora"
     } ],
     "repeatCount": 1,
     "languageCode": "it"
@@ -93,8 +404,7 @@
       "parameterId": "affermative_entity",
       "auto": true
     }, {
-      "text": ", ",
-      "auto": true
+      "text": ", "
     }, {
       "text": "procedi pure",
       "parameterId": "proceed_entity",

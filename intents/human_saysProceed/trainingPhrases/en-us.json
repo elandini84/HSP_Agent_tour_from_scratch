@@ -1,9 +1,323 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
+      "text": "We're eager to see all the sights, let's keep "
+    }, {
+      "text": "going on",
+      "parameterId": "proceed_entity",
       "auto": true
+    }, {
+      "text": " the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're impressed with the tour, let's "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're enjoying the tour, let's not stop now."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're having a great time with the guide, let's "
+    }, {
+      "text": "continue",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're curious to see "
+    }, {
+      "text": "what"
+    }, {
+      "text": "'s next, let's keep "
+    }, {
+      "text": "going",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're captivated by the tour, let's "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with it."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're not ready to stop, let's keep "
+    }, {
+      "text": "going on",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're interested in seeing everything, let's "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with the guided tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're having a blast, let's "
+    }, {
+      "text": "continue",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're fascinated by the tour, let's keep "
+    }, {
+      "text": "going",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's see all the attractions, we're ready to "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We want to explore "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": ", let's "
+    }, {
+      "text": "go on",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with the guided tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're excited to see "
+    }, {
+      "text": "what"
+    }, {
+      "text": "'s next, let's "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're enjoying the tour, let's keep it "
+    }, {
+      "text": "going",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're having a great time, let's "
+    }, {
+      "text": "continue",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's keep learning and discovering, we're ready to "
+    }, {
+      "text": "go on",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We don't want to miss a thing, let's "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with the guided tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're eager to see "
+    }, {
+      "text": "what"
+    }, {
+      "text": "'s next, let's move forward with the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're interested in seeing everything, let's "
+    }, {
+      "text": "go on",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's not stop now, we want to see "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're loving the tour, let's "
+    }, {
+      "text": "continue",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Absolutely, let's keep "
+    }, {
+      "text": "going on",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're ready to see "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_entity",
+      "auto": true
+    }, {
+      "text": ", let's "
+    }, {
+      "text": "proceed",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " with the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We're excited to keep exploring, let's "
+    }, {
+      "text": "go on",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Yes",
+      "parameterId": "affermative_entity",
+      "auto": true
+    }, {
+      "text": ", let's "
+    }, {
+      "text": "continue",
+      "parameterId": "proceed_entity",
+      "auto": true
+    }, {
+      "text": " the tour."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You"
     }, {
       "text": " may "
     }, {
@@ -15,9 +329,7 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
+      "text": "You"
     }, {
       "text": " can "
     }, {
@@ -31,9 +343,7 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
+      "text": "You"
     }, {
       "text": " can "
     }, {
@@ -45,9 +355,7 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
+      "text": "You"
     }, {
       "text": " can "
     }, {
@@ -73,9 +381,7 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
+      "text": "You"
     }, {
       "text": " can "
     }, {
@@ -89,9 +395,7 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "You",
-      "parameterId": "subject_entity",
-      "auto": true
+      "text": "You"
     }, {
       "text": " can "
     }, {
@@ -117,9 +421,7 @@
     }, {
       "text": ", "
     }, {
-      "text": "you",
-      "parameterId": "subject_entity",
-      "auto": true
+      "text": "you"
     }, {
       "text": " can "
     }, {
