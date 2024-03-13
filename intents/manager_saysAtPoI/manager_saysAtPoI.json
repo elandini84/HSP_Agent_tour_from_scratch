@@ -1,0 +1,13 @@
+{
+  "name": "74ec1a8e-4418-44d3-be7f-6f5f41cee6f0",
+  "displayName": "manager_saysAtPoI",
+  "priority": 500000,
+  "labels": [ {
+    "key": "manager",
+    "value": "manager"
+  }, {
+    "key": "says",
+    "value": "says"
+  } ],
+  "numTrainingPhrases": 2
+}

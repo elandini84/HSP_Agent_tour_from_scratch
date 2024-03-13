@@ -1,0 +1,13 @@
+{
+  "name": "bdc2313a-4057-478d-9723-bc32ec465c02",
+  "displayName": "manager_saysTourEnded",
+  "priority": 500000,
+  "labels": [ {
+    "key": "manager",
+    "value": "manager"
+  }, {
+    "key": "says",
+    "value": "says"
+  } ],
+  "numTrainingPhrases": 2
+}

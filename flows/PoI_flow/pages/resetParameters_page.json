@@ -1,8 +1,8 @@
 {
-  "name": "002a5ff1-a931-48d3-b779-f03f1239bd99",
+  "name": "8d7c4a5b-6e5a-4f2f-8f9e-2d6ed5c7a8b1",
   "displayName": "resetParameters_page",
   "form": {
-  
+
   },
   "transitionRoutes": [ {
     "condition": "$session.params.paramReset_entity = \"resetAndBack\"",
@@ -19,6 +19,38 @@
       } ]
     },
     "targetPage": "qAndA_page",
-    "name": "be3655e2-dbdb-4f2d-adb2-6c0a0bd81d4d"
+    "name": "b9c2a1d4-5f8e-4e7b-9d3a-6c0d1f2e3a4f"
+  }, {
+    "condition": "$session.params.paramReset_entity = \"resetAndGo\"",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "subject_entity",
+        "value": ""
+      }, {
+        "parameter": "reinforcing_entity",
+        "value": ""
+      }, {
+        "parameter": "request_entity",
+        "value": ""
+      } ]
+    },
+    "targetPage": "limbo_page",
+    "name": "7f2b5e3c-9a1d-4c5e-bb6c-1d6f0a8b7c6d"
+  }, {
+    "condition": "$session.params.paramReset_entity = \"resetAndQuit\"",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "subject_entity",
+        "value": ""
+      }, {
+        "parameter": "reinforcing_entity",
+        "value": ""
+      }, {
+        "parameter": "request_entity",
+        "value": ""
+      } ]
+    },
+    "targetPage": "limbo_page",
+    "name": "d8e9f0a1-2b3c-4d5e-6f7a-8b9c0d1e2f3g"
   } ]
 }

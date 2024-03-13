@@ -1,0 +1,49 @@
+{
+  "name": "8e9a5d99-7b89-4a1e-8d6c-bd4c0d8c2d2a",
+  "displayName": "limbo_page",
+  "form": {
+
+  },
+  "entryFulfillment": {
+
+  },
+  "transitionRoutes": [ {
+    "intent": "manager_saysTourEnded",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(cmd_blank)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(cmd_blank)" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "skipStart",
+        "value": true
+      } ]
+    },
+    "targetFlow": "LanguageSelection_flow",
+    "name": "9c3f8912-b2a7-4d27-9c45-2f8bfc8e1a9c"
+  }, {
+    "intent": "manager_saysAtPoI",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(cmd_blank)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(cmd_blank)" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "targetPage": "qAndA_page",
+    "name": "3d6f4b67-9a8e-4a6d-8521-8c43a6b7b8a8"
+  } ]
+}
