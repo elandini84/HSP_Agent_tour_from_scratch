@@ -5,12 +5,12 @@
   "enableLogging": true,
   "projectNumber": 522779747538,
   "speechToTextSettings": {
-  
+
   },
-  "startFlow": "LanguageSeletion_flow",
+  "startFlow": "LanguageSelection_flow",
   "advancedSettings": {
     "audioExportGcsDestination": {
-    
+
     },
     "speechSettings": {
       "endpointerSensitivity": 90,
@@ -19,14 +19,14 @@
       }
     },
     "playbackInterruptionSettings": {
-    
+
     },
     "dtmfSettings": {
       "interdigitTimeoutDuration": {
-      
+
       },
       "endpointingTimeoutDuration": {
-      
+
       }
     },
     "loggingSettings": {
@@ -34,6 +34,6 @@
     }
   },
   "speakerIdSettings": {
-  
+
   }
 }

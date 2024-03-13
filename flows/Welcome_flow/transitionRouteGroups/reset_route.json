@@ -16,7 +16,7 @@
         "languageCode": "en-us"
       } ]
     },
-    "targetFlow": "LanguageSeletion_flow",
+    "targetFlow": "LanguageSelection_flow",
     "name": "3fd8f98d-4d58-4adf-89ea-8eb91a0be64e"
   } ]
 }
