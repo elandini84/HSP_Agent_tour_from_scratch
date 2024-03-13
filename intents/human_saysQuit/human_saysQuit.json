@@ -1,0 +1,23 @@
+{
+  "name": "a1b2c3d4-e5f6-7g8h-9i1j-2k3l4m5n6opq",
+  "displayName": "human_saysProceed",
+  "parameters": [ {
+    "id": "affermative_entity",
+    "entityType": "@affermative_entity"
+  }, {
+    "id": "proceed_entity",
+    "entityType": "@proceed_entity"
+  }, {
+    "id": "subject_entity",
+    "entityType": "@subject_entity"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "command",
+    "value": "command"
+  }, {
+    "key": "human",
+    "value": "human"
+  } ],
+  "numTrainingPhrases": 19
+}

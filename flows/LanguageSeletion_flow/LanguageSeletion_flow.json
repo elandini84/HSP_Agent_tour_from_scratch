@@ -15,11 +15,6 @@
           "text": [ "selectLanguage" ]
         },
         "languageCode": "en-us"
-      }, {
-        "text": {
-          "text": [ "Hi! How are you doing?", "Hello! How can I help you?", "Good day! What can I do for you today?", "Greetings! How can I assist?" ]
-        },
-        "languageCode": "en"
       } ]
     },
     "name": "34d2acee-d0a0-4a2f-8727-a9dfed8192fb"

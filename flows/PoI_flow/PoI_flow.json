@@ -1,0 +1,56 @@
+{
+  "name": "a56f4e0e-51cc-4f2a-bf91-04b3c7a9b91f",
+  "displayName": "PoI_flow",
+  "transitionRoutes": [ {
+    "condition": "$session.params.skipStart = true",
+    "targetPage": "qAndA_page",
+    "name": "3e6e1e5f-1bcb-4c6d-83d5-8f8f6c960c78"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(cmd_unknown)" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(cmd_unknown)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(cmd_unknown)" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "9c8ef8dd-2b7a-4edf-a6fc-1f1a2a1b4ecb"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(cmd_empty)" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(cmd_empty)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(cmd_empty)" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "7f6a0a07-6c9b-4b2f-853d-2d39b2a6b2c3"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_STANDARD",
+    "classificationThreshold": 0.30000001
+  }
+}

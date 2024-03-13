@@ -1,0 +1,32 @@
+{
+  "name": "8b9d7f1c-b7c2-4f95-9d7e-1e2d4d4edf1b",
+  "displayName": "limbo_page",
+  "form": {
+
+  },
+  "entryFulfillment": {
+
+  },
+  "transitionRoutes": [ {
+    "intent": "manager_saysTourStarted",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(cmd_blank)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(cmd_blank)" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "skipStart",
+        "value": true
+      } ]
+    },
+    "targetFlow": "PoI_flow",
+    "name": "d1a8e5b3-5f9c-4bcf-a6e4-8d70357d3a8a"
+  } ]
+}

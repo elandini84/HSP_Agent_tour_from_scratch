@@ -1,0 +1,13 @@
+{
+  "name": "d3f5e3b2-3d0e-4c0d-9f9c-5622b8a1a7c6",
+  "displayName": "manager_saysTourStarted",
+  "priority": 500000,
+  "labels": [ {
+    "key": "notify",
+    "value": "notify"
+  }, {
+    "key": "manager",
+    "value": "manager"
+  } ],
+  "numTrainingPhrases": 2
+}

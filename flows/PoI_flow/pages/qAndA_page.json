@@ -1,5 +1,5 @@
 {
-  "name": "ca95f5a4-8df1-463c-a4af-39bef55158c0",
+  "name": "d3e0a6b2-7f1c-4d5e-8a9b-0c6e89b5a7d2",
   "displayName": "qAndA_page",
   "form": {
 
@@ -28,7 +28,7 @@
       } ]
     },
     "targetPage": "resetParameters_page",
-    "name": "6234148f-9a0b-4638-9555-639b1d150091"
+    "name": "5c7f6b9d-3a1e-4e8d-b2c0-0f9e6a8d5b4c"
   }, {
     "intent": "human_asksQuestions",
     "condition": "$session.params.subject_entity = NULL",
@@ -50,18 +50,18 @@
       } ]
     },
     "targetPage": "resetParameters_page",
-    "name": "c92ecf78-6bcf-4350-813a-eadaecb986f4"
+    "name": "1b7d8e2f-3c5a-4e0d-b6f9-9a1d6c0e7f8b"
   }, {
-    "intent": "human_saysStartTour",
+    "intent": "human_saysProceed",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(start_tour)" ]
+          "text": [ "(next_poi)" ]
         },
         "languageCode": "en-us"
       }, {
         "text": {
-          "text": [ "(start_tour)" ]
+          "text": [ "(next_poi)" ]
         },
         "languageCode": "it"
       } ],
@@ -71,6 +71,27 @@
       } ]
     },
     "targetPage": "resetParameters_page",
-    "name": "f9e4c1a2-5b7d-4e3f-9a8c-2d6f8b5c7a4d"
+    "name": "8f3d2c5a-7e6b-4d9c-a0f1-e8b5f4a73157"
+  }, {
+    "intent": "human_saysQuit",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(end_tour)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(end_tour)" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "paramReset_entity",
+        "value": "resetAndEnd"
+      } ]
+    },
+    "targetPage": "resetParameters_page",
+    "name": "9e8d7c6b-5a4f-3e2d-1c0b-fa9b8a7f695f"
   } ]
 }
