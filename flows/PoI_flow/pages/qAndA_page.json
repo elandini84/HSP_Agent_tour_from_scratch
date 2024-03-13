@@ -8,7 +8,7 @@
 
   },
   "transitionRoutes": [ {
-    "intent": "human_asksQuestions",
+    "intent": "human_asksOperaQuestion",
     "condition": "$session.params.subject_entity != NULL",
     "triggerFulfillment": {
       "messages": [ {
@@ -30,7 +30,7 @@
     "targetPage": "resetParameters_page",
     "name": "5c7f6b9d-3a1e-4e8d-b2c0-0f9e6a8d5b4c"
   }, {
-    "intent": "human_asksQuestions",
+    "intent": "human_asksOperaQuestion",
     "condition": "$session.params.subject_entity = NULL",
     "triggerFulfillment": {
       "messages": [ {
