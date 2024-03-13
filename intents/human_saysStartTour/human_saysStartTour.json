@@ -1,17 +1,13 @@
 {
   "name": "5a6e8d34-20f3-4f9d-a2e9-fb74c9d6b1fd",
   "displayName": "human_saysStartTour",
-  "parameters": [ {
-    "id": "date-time",
-    "entityType": "@sys.date-time"
-  } ],
   "priority": 500000,
   "labels": [ {
-    "key": "order",
-    "value": "order"
-  }, {
     "key": "human",
     "value": "human"
+  }, {
+    "key": "order",
+    "value": "order"
   } ],
-  "numTrainingPhrases": 19
+  "numTrainingPhrases": 50
 }

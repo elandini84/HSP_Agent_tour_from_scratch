@@ -1,13 +1,143 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
-      "text": "Cominciamo"
+      "text": "È "
+    }, {
+      "text": "ora"
+    }, {
+      "text": " di iniziare "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": " e di esplorare!"
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Andiamo pure"
+      "text": "Cominciamo "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": " nel migliore dei modi."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Stavamo aspettando "
+    }, {
+      "text": "questo momento"
+    }, {
+      "text": ", iniziamo "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": "!"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Siamo pronti, iniziamo la visita."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Il tour"
+    }, {
+      "text": " può ufficialmente iniziare "
+    }, {
+      "text": "ora"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cominciamo "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": " con "
+    }, {
+      "text": "un"
+    }, {
+      "text": " botto!"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Facciamo "
+    }, {
+      "text": "il primo"
+    }, {
+      "text": " "
+    }, {
+      "text": "passo"
+    }, {
+      "text": " del "
+    }, {
+      "text": "tour"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "È giunto il momento di iniziare la visita."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mettiamo in moto le "
+    }, {
+      "text": "cose"
+    }, {
+      "text": " e iniziamo "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Il tour"
+    }, {
+      "text": " può "
+    }, {
+      "text": "ora"
+    }, {
+      "text": " iniziare."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Possiamo iniziare "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": " non appena sarà pronto."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Diamo"
+    }, {
+      "text": " inizio al "
+    }, {
+      "text": "tour"
+    }, {
+      "text": "."
     } ],
     "repeatCount": 1,
     "languageCode": "it"
@@ -16,62 +146,126 @@
       "text": "Iniziamo "
     }, {
       "text": "il tour"
+    }, {
+      "text": " senza "
+    }, {
+      "text": "indugi"
+    }, {
+      "text": "."
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Cominciamo "
+      "text": "Il tour"
     }, {
-      "text": "pure"
+      "text": " sta per iniziare."
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Ok, "
+      "text": "Si"
     }, {
-      "text": "Iniziamo"
-    }, {
-      "text": "pure"
+      "text": " parte, iniziamo la visita."
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Per "
+      "text": "Pronti, partenza, "
     }, {
-      "text": "adesso"
+      "text": "via -"
     }, {
-      "text": " no, grazie"
+      "text": " iniziamo "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": "!"
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Per "
+      "text": "Cominciamo subito il giro."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "È "
     }, {
-      "text": "adesso"
+      "text": "ora"
     }, {
-      "text": " no"
+      "text": " di intraprendere "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": "."
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Al momento no"
+      "text": "Tutto pronto, "
+    }, {
+      "text": "si"
+    }, {
+      "text": " parte con "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": "."
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "No, grazie"
+      "text": "Finalmente, possiamo iniziare la visita guidata."
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "No"
+      "text": "Perfetto, è "
+    }, {
+      "text": "ora"
+    }, {
+      "text": " di iniziare "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Adesso"
+    }, {
+      "text": ", possiamo iniziare la visita."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Iniziamo il giro, che ne dice?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ottimo, cominciamo "
+    }, {
+      "text": "il tour"
+    }, {
+      "text": "!"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Bene, iniziamo la visita."
     } ],
     "repeatCount": 1,
     "languageCode": "it"

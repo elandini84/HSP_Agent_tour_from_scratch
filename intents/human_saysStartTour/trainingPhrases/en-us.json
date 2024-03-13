@@ -1,66 +1,205 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
-      "text": "Not now"
-    } ],
-    "repeatCount": 3,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "No not yet",
+      "text": "It's time to start the tour and explore!",
       "auto": true
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "I would say no",
+      "text": "Let's start the tour off on the right foot.",
       "auto": true
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "Definitely no",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "No, no",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Not for now, thanks",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Not ",
+      "text": "We've been waiting for ",
       "auto": true
     }, {
-      "text": "at the moment",
-      "parameterId": "date-time",
+      "text": "this moment",
+      "auto": true
+    }, {
+      "text": ", let's start the tour.",
       "auto": true
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "No thanks",
+      "text": "We're all set, let's start the tour.",
       "auto": true
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "No",
+      "text": "The tour can officially begin now.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's start the tour with a bang.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's take the ",
+      "auto": true
+    }, {
+      "text": "first",
+      "auto": true
+    }, {
+      "text": " step of the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "The time has come to start the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's get things rolling and start the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "The tour can now commence.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "We can begin the tour whenever ",
+      "auto": true
+    }, {
+      "text": "you",
+      "auto": true
+    }, {
+      "text": "'re ready.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's initiate the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's start the tour without any further delay.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "The tour is about to begin.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Here we ",
+      "auto": true
+    }, {
+      "text": "go",
+      "auto": true
+    }, {
+      "text": ", let's start the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Ready, set, ",
+      "auto": true
+    }, {
+      "text": "go",
+      "auto": true
+    }, {
+      "text": " - let's start the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's commence the tour now.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "It's time to embark on the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "All set, let's start the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Finally, we can start the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Perfect, it's time to start the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Now, we can start the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's get this tour started, shall we?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Great, let's kick off the tour.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Alright, let's begin the tour.",
       "auto": true
     } ],
     "repeatCount": 1,
