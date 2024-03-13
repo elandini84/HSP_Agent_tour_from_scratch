@@ -88,7 +88,7 @@
       } ],
       "setParameterActions": [ {
         "parameter": "paramReset_entity",
-        "value": "resetAndEnd"
+        "value": "resetAndQuit"
       } ]
     },
     "targetPage": "resetParameters_page",

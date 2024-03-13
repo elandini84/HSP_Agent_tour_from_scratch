@@ -1,7 +1,7 @@
 {
   "entities": [ {
     "value": "opera",
-    "synonyms": [ "allestimento", "ceramica", "opera", "quadro", "scultura", "vaso" ],
+    "synonyms": [ "allestimento", "ceramica", "opera", "quadro", "dipinto", "scultura", "vaso" ],
     "languageCode": "it"
   }, {
     "value": "author",
