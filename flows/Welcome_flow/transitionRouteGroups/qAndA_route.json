@@ -10,12 +10,12 @@
       } ],
       "messages": [ {
           "text": {
-            "text": [ "(explain_$session.params.subject_entity)" ]
+            "text": [ "(explain_$session.params.subject_value)" ]
           },
           "languageCode": "en-us"
         }, {
           "text": {
-            "text": [ "(explain_$session.params.subject_entity)" ]
+            "text": [ "(explain_$session.params.subject_value)" ]
           },
           "languageCode": "it"
         }

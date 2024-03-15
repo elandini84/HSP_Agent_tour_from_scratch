@@ -2,14 +2,14 @@
   "name": "0123eab9-9882-4eb7-8230-e608f8dbf260",
   "displayName": "human_asksOperaQuestion",
   "parameters": [ {
-    "id": "request_entity",
+    "id": "request_value",
     "entityType": "@request_entity"
   }, {
-    "id": "subject_entity",
-    "entityType": "@opera_entity"
-  }, {
-    "id": "reinforcing_entity",
+    "id": "reinforcing_value",
     "entityType": "@reinforcing_entity"
+  }, {
+    "id": "opera_value",
+    "entityType": "@opera_entity"
   } ],
   "priority": 500000,
   "labels": [ {
@@ -19,5 +19,5 @@
     "key": "human",
     "value": "human"
   } ],
-  "numTrainingPhrases": 78
+  "numTrainingPhrases": 62
 }

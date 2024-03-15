@@ -1,53 +1,17 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
-      "text": "I want to know "
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about this "
-    }, {
-      "text": "vase",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", can "
-    }, {
-      "text": "you"
-    }, {
-      "text": " "
-    }, {
-      "text": "give me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " some "
-    }, {
-      "text": "more details"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
       "text": "Can you "
     }, {
       "text": "provide",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
-      "text": " "
+      "text": " any fun facts about this "
     }, {
-      "text": "additional information",
-      "parameterId": "reinforcing_entity"
-    }, {
-      "text": " about this "
-    }, {
-      "text": "statue",
-      "parameterId": "subject_entity"
+      "text": "art piece",
+      "parameterId": "opera_value",
+      "auto": true
     }, {
       "text": "?"
     } ],
@@ -55,22 +19,15 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "Could you "
-    }, {
-      "text": "tell me",
-      "parameterId": "request_entity",
+      "text": "What",
+      "parameterId": "request_value",
       "auto": true
     }, {
-      "text": " "
+      "text": " is the cultural significance of this "
     }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
+      "text": "vase",
+      "parameterId": "opera_value",
       "auto": true
-    }, {
-      "text": " about this "
-    }, {
-      "text": "sculpture",
-      "parameterId": "subject_entity"
     }, {
       "text": "?"
     } ],
@@ -78,26 +35,14 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "I'm curious about this "
+      "text": "What",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " was the purpose of this "
     }, {
       "text": "painting",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", can "
-    }, {
-      "text": "you"
-    }, {
-      "text": " "
-    }, {
-      "text": "provide",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " "
-    }, {
-      "text": "more information",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "opera_value",
       "auto": true
     }, {
       "text": "?"
@@ -106,71 +51,78 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "Can you "
-    }, {
-      "text": "give me",
-      "parameterId": "request_entity",
+      "text": "How",
+      "parameterId": "request_value",
       "auto": true
     }, {
-      "text": " some "
+      "text": " was this "
     }, {
-      "text": "more details",
-      "parameterId": "reinforcing_entity",
+      "text": "statue",
+      "parameterId": "opera_value",
       "auto": true
     }, {
-      "text": " about this "
-    }, {
-      "text": "artwork",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
+      "text": " commissioned?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "I want to know "
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
+      "text": "What",
+      "parameterId": "request_value",
       "auto": true
     }, {
-      "text": " about this "
+      "text": " was the inspiration for this "
     }, {
-      "text": "vase",
-      "parameterId": "subject_entity",
+      "text": "sculpture",
+      "parameterId": "opera_value",
       "auto": true
     }, {
-      "text": ", can "
-    }, {
-      "text": "you"
-    }, {
-      "text": " "
-    }, {
-      "text": "provide",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " additional information?"
+      "text": "?"
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
   }, {
     "parts": [ {
       "text": "Can you tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "more",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
-      "text": " about this "
+      "text": " about the time "
     }, {
-      "text": "statue",
-      "parameterId": "subject_entity",
+      "text": "period",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "when",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " this "
+    }, {
+      "text": "art"
+    }, {
+      "text": " piece was created?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " is the significance of the patterns on this "
+    }, {
+      "text": "vase",
+      "parameterId": "opera_value",
       "auto": true
     }, {
       "text": "?"
@@ -179,44 +131,15 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "I'm interested in learning "
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
+      "text": "What",
+      "parameterId": "request_value",
       "auto": true
     }, {
-      "text": " about this "
-    }, {
-      "text": "sculpture",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", can you "
-    }, {
-      "text": "help me",
-      "parameterId": "request_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you "
-    }, {
-      "text": "provide",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " some "
-    }, {
-      "text": "additional information",
-      "parameterId": "reinforcing_entity"
-    }, {
-      "text": " about this "
+      "text": " is the meaning behind the colors used in this "
     }, {
       "text": "painting",
-      "parameterId": "subject_entity"
+      "parameterId": "opera_value",
+      "auto": true
     }, {
       "text": "?"
     } ],
@@ -224,21 +147,260 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "I would like to "
+      "text": "What",
+      "parameterId": "request_value",
+      "auto": true
     }, {
-      "text": "know",
-      "parameterId": "request_entity"
+      "text": " is the story behind this "
+    }, {
+      "text": "statue",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "'s pose?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " does this "
+    }, {
+      "text": "sculpture",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": " represent?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you explain the symbolism behind this "
+    }, {
+      "text": "art piece",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " is the style of this "
+    }, {
+      "text": "vase",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "How",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " was this "
+    }, {
+      "text": "painting",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": " created?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " is the "
+    }, {
+      "text": "technique",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": " used to sculpt this "
+    }, {
+      "text": "statue"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you tell me",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " the materials used to create this "
+    }, {
+      "text": "art piece",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " is the origin of this "
+    }, {
+      "text": "vase",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Who",
+      "parameterId": "request_value",
+      "auto": true
     }, {
       "text": " "
     }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
+      "text": "painted"
+    }, {
+      "text": " this "
+    }, {
+      "text": "painting",
+      "parameterId": "opera_value",
       "auto": true
     }, {
-      "text": " about this "
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What",
+      "parameterId": "request_value",
+      "auto": true
     }, {
-      "text": "artwork",
-      "parameterId": "subject_entity",
+      "text": " is the name of this "
+    }, {
+      "text": "statue",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Who",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " made this "
+    }, {
+      "text": "sculpture",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I want to know "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_value",
+      "auto": true
+    }, {
+      "text": " about the artist "
+    }, {
+      "text": "who",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " created this "
+    }, {
+      "text": "art piece.",
+      "parameterId": "opera_value",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " is the significance of this "
+    }, {
+      "text": "vase",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can "
+    }, {
+      "text": "you"
+    }, {
+      "text": " explain the meaning behind this "
+    }, {
+      "text": "painting",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " is the story behind this "
+    }, {
+      "text": "statue",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm curious about the history of this "
+    }, {
+      "text": "sculpture",
+      "parameterId": "opera_value",
       "auto": true
     }, {
       "text": "."
@@ -247,41 +409,17 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "Can you explain the meaning behind this artist's work?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Could "
+      "text": "Could you "
     }, {
-      "text": "you"
-    }, {
-      "text": " "
-    }, {
-      "text": "provide",
-      "parameterId": "request_entity",
+      "text": "give me",
+      "parameterId": "request_value",
       "auto": true
     }, {
-      "text": " some information about the social issues of this historical period?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you tell me",
-      "parameterId": "request_entity",
+      "text": " some information about this "
+    }, {
+      "text": "art piece",
+      "parameterId": "opera_value",
       "auto": true
-    }, {
-      "text": " about the different materials used in this "
-    }, {
-      "text": "sculptor",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "'s "
-    }, {
-      "text": "work"
     }, {
       "text": "?"
     } ],
@@ -289,57 +427,19 @@
     "languageCode": "en-us"
   }, {
     "parts": [ {
-      "text": "I want to know "
+      "text": "I would like to know "
     }, {
       "text": "more",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": " about this "
     }, {
-      "text": "artist",
-      "parameterId": "subject_entity",
+      "text": "vase",
+      "parameterId": "opera_value",
       "auto": true
     }, {
-      "text": "'s style, can "
-    }, {
-      "text": "you"
-    }, {
-      "text": " explain it to me?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you "
-    }, {
-      "text": "provide",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " some context for the political climate of this "
-    }, {
-      "text": "historical period",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Could you "
-    }, {
-      "text": "tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the influences on this "
-    }, {
-      "text": "painter",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "'s work?"
+      "text": "."
     } ],
     "repeatCount": 1,
     "languageCode": "en-us"
@@ -351,443 +451,98 @@
     }, {
       "text": " "
     }, {
-      "text": "give me",
-      "parameterId": "request_entity",
+      "text": "provide",
+      "parameterId": "request_value",
       "auto": true
-    }, {
-      "text": " some examples of "
-    }, {
-      "text": "sculptures"
-    }, {
-      "text": " produced during this time "
-    }, {
-      "text": "period"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "I'm interested in the cultural significance of this "
-    }, {
-      "text": "period",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", can "
-    }, {
-      "text": "you"
     }, {
       "text": " "
     }, {
-      "text": "provide",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " some information?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Could you "
-    }, {
-      "text": "tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the impact of this "
-    }, {
-      "text": "author",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "'s work?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you "
-    }, {
-      "text": "explain",
-      "parameterId": "request_entity"
-    }, {
-      "text": " the process of this "
-    }, {
-      "text": "technique",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "I want to know "
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
+      "text": "more details",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": " about this "
     }, {
-      "text": "artist",
-      "parameterId": "subject_entity",
+      "text": "painting",
+      "parameterId": "opera_value",
       "auto": true
     }, {
-      "text": ", "
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "What can you tell me",
+      "parameterId": "request_value",
+      "auto": true
     }, {
+      "text": " about this "
+    }, {
+      "text": "statue",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I'm interested in learning "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_value",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "sculpture",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you tell me",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "more",
+      "parameterId": "reinforcing_value",
+      "auto": true
+    }, {
+      "text": " about this "
+    }, {
+      "text": "art piece",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
       "text": "can you tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you "
-    }, {
-      "text": "provide",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " some context for this "
-    }, {
-      "text": "historical period",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Could you "
-    }, {
-      "text": "tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "more",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": " about this "
     }, {
-      "text": "painter",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "I'm interested in learning about this sculpting "
-    }, {
-      "text": "technique",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", can you "
-    }, {
-      "text": "help me",
-      "parameterId": "request_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you "
-    }, {
-      "text": "give me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " some "
-    }, {
-      "text": "details",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about this "
-    }, {
-      "text": "historical period",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "What can you tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the works of this "
-    }, {
-      "text": "author",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Could you "
-    }, {
-      "text": "tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the significance of this "
-    }, {
-      "text": "artist",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "I want to know "
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about this specific "
-    }, {
-      "text": "historical period",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", can you "
-    }, {
-      "text": "help me",
-      "parameterId": "request_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you "
-    }, {
-      "text": "provide",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " some background information about this "
-    }, {
-      "text": "sculptor",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Could you "
-    }, {
-      "text": "tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the "
-    }, {
-      "text": "technique",
-      "parameterId": "subject_entity"
-    }, {
-      "text": " used by artists?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "I'm curious about the life of this "
-    }, {
-      "text": "author",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", can you "
-    }, {
-      "text": "share some information",
-      "parameterId": "request_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about the historical context of this "
-    }, {
-      "text": "period",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Could you "
-    }, {
-      "text": "provide",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " "
-    }, {
-      "text": "more information",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about this "
-    }, {
-      "text": "painter",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "I want to know "
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about this "
-    }, {
-      "text": "technique",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", can you "
-    }, {
-      "text": "explain",
-      "parameterId": "request_entity"
-    }, {
-      "text": " it to me?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you "
-    }, {
-      "text": "give me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " some "
-    }, {
-      "text": "details",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about this "
-    }, {
-      "text": "artist",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "I'm curious about this "
-    }, {
-      "text": "sculptor",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", can "
-    }, {
-      "text": "you"
-    }, {
-      "text": " "
-    }, {
-      "text": "provide",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " some information?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "What can you tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " about this "
-    }, {
-      "text": "historical period",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "I'm interested in learning about this "
-    }, {
-      "text": "painter",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", can you "
-    }, {
-      "text": "help me",
-      "parameterId": "request_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "en-us"
-  }, {
-    "parts": [ {
-      "text": "Can you tell me",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " "
-    }, {
-      "text": "more",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " about this "
-    }, {
-      "text": "author",
-      "parameterId": "subject_entity",
+      "text": "art piece",
+      "parameterId": "opera_value",
       "auto": true
     }, {
       "text": "?"

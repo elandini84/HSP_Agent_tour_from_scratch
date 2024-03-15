@@ -2,13 +2,13 @@
   "name": "dee3113c-71e4-4947-b670-69e243836968",
   "displayName": "human_asksQuestions",
   "parameters": [ {
-    "id": "request_entity",
+    "id": "request_value",
     "entityType": "@request_entity"
   }, {
-    "id": "subject_entity",
+    "id": "subject_value",
     "entityType": "@subject_entity"
   }, {
-    "id": "reinforcing_entity",
+    "id": "reinforcing_value",
     "entityType": "@reinforcing_entity"
   } ],
   "priority": 500000,

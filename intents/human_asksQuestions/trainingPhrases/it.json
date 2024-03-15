@@ -2,13 +2,13 @@
   "trainingPhrases": [ {
     "parts": [ {
       "text": "Dimmi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " qualcosa di "
     }, {
       "text": "te",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "."
@@ -18,13 +18,13 @@
   }, {
     "parts": [ {
       "text": "Chi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "sei",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -34,13 +34,13 @@
   }, {
     "parts": [ {
       "text": "Come",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "ti chiami",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -50,13 +50,13 @@
   }, {
     "parts": [ {
       "text": "Quanti",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "anni",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": " "
@@ -72,13 +72,13 @@
       "text": "Sai dirmi "
     }, {
       "text": "chi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "ti ha costruito",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -88,13 +88,13 @@
   }, {
     "parts": [ {
       "text": "Chi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "ti ha costruito",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -104,13 +104,13 @@
   }, {
     "parts": [ {
       "text": "Chi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " é il tuo "
     }, {
       "text": "creatore",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -120,13 +120,13 @@
   }, {
     "parts": [ {
       "text": "Chi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " é il tuo "
     }, {
       "text": "costruttore",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -136,13 +136,13 @@
   }, {
     "parts": [ {
       "text": "Chi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "ti ha creato",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -152,13 +152,13 @@
   }, {
     "parts": [ {
       "text": "Puoi dirmi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "qualcosa di piú",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": "?"
@@ -168,13 +168,13 @@
   }, {
     "parts": [ {
       "text": "Cosa puoi dirmi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "di piú",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": "?"
@@ -184,13 +184,13 @@
   }, {
     "parts": [ {
       "text": "Come",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "funziona",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -200,13 +200,13 @@
   }, {
     "parts": [ {
       "text": "Dammi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "maggiori dettagli",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -214,13 +214,13 @@
   }, {
     "parts": [ {
       "text": "Cosa puoi dirmi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " sugli "
     }, {
       "text": "obiettivi futuri",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -230,13 +230,13 @@
   }, {
     "parts": [ {
       "text": "Quali",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " sono gli "
     }, {
       "text": "obiettivi futuri",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -246,7 +246,7 @@
   }, {
     "parts": [ {
       "text": "Dimmi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
@@ -256,7 +256,7 @@
       "text": " "
     }, {
       "text": "funziona",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -264,19 +264,19 @@
   }, {
     "parts": [ {
       "text": "Dimmi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "di piú",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": " sugli "
     }, {
       "text": "obiettivi futuri",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -284,19 +284,19 @@
   }, {
     "parts": [ {
       "text": "Dimmi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "di piú",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": " sul "
     }, {
       "text": "funzionamento",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -304,13 +304,13 @@
   }, {
     "parts": [ {
       "text": "Dimmi",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "di piú",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -318,13 +318,13 @@
   }, {
     "parts": [ {
       "text": "Parlami",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " degli "
     }, {
       "text": "obiettivi futuri",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     } ],
     "repeatCount": 1,

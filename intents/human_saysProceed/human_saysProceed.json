@@ -8,7 +8,7 @@
     "id": "proceed_entity",
     "entityType": "@proceed_entity"
   }, {
-    "id": "reinforcing_entity",
+    "id": "reinforcing_value",
     "entityType": "@reinforcing_entity"
   } ],
   "priority": 500000,

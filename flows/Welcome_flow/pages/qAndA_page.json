@@ -9,16 +9,16 @@
   },
   "transitionRoutes": [ {
     "intent": "human_asksQuestions",
-    "condition": "$session.params.subject_entity != NULL",
+    "condition": "$session.params.subject_value != NULL",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(explain_$session.params.subject_entity)" ]
+          "text": [ "(explain_$session.params.subject_value)" ]
         },
         "languageCode": "en-us"
       }, {
         "text": {
-          "text": [ "(explain_$session.params.subject_entity)" ]
+          "text": [ "(explain_$session.params.subject_value)" ]
         },
         "languageCode": "it"
       } ],
@@ -31,7 +31,7 @@
     "name": "6234148f-9a0b-4638-9555-639b1d150091"
   }, {
     "intent": "human_asksQuestions",
-    "condition": "$session.params.subject_entity = NULL",
+    "condition": "$session.params.subject_value = NULL",
     "triggerFulfillment": {
       "messages": [ {
         "text": {

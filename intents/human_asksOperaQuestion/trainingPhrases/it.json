@@ -1,105 +1,198 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
-      "text": "Voglio sapere "
-    }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
+      "text": "Puoi ",
       "auto": true
     }, {
-      "text": " su questo "
-    }, {
-      "text": "vaso",
-      "parameterId": "subject_entity",
+      "text": "fornirmi",
+      "parameterId": "request_value",
       "auto": true
     }, {
-      "text": ", "
-    }, {
-      "text": "puoi darmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " maggiori dettagli?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi fornirmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " "
-    }, {
-      "text": "informazioni aggiuntive",
-      "parameterId": "reinforcing_entity"
-    }, {
-      "text": " su questa "
-    }, {
-      "text": "statua",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Potresti raccontarmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " "
-    }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
+      "text": " qualche aneddoto interessante su quest'",
       "auto": true
-    }, {
-      "text": " su questa "
-    }, {
-      "text": "scultura",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Sono curioso di questo "
-    }, {
-      "text": "quadro",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", "
-    }, {
-      "text": "potresti fornirmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " "
-    }, {
-      "text": "maggiori informazioni",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi darmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " "
-    }, {
-      "text": "qualche altro dettaglio",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " su quest'"
     }, {
       "text": "opera",
-      "parameterId": "subject_entity",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": " d'arte?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Qual",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " è il significato culturale di questo ",
+      "auto": true
+    }, {
+      "text": "vaso",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Qual",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " era lo scopo di questo ",
+      "auto": true
+    }, {
+      "text": "dipinto",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Come",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " è stata commissionata questa statua?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Qual",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " è stata l'ispirazione per questa ",
+      "auto": true
+    }, {
+      "text": "scultura",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi dirmi",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "di più",
+      "parameterId": "reinforcing_value",
+      "auto": true
+    }, {
+      "text": " sul ",
+      "auto": true
+    }, {
+      "text": "periodo storico",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": " in cui quest'",
+      "auto": true
+    }, {
+      "text": "opera"
+    }, {
+      "text": " d'arte è stata creata?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Qual",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " è il significato dei motivi su questo ",
+      "auto": true
+    }, {
+      "text": "vaso",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Qual",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " è il significato dei colori usati in questo ",
+      "auto": true
+    }, {
+      "text": "dipinto",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Qual",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " è la storia dietro la posa di questa "
+    }, {
+      "text": "statua",
+      "parameterId": "opera_value"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cosa",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " rappresenta questa ",
+      "auto": true
+    }, {
+      "text": "scultura",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi spiegare",
+      "parameterId": "request_value"
+    }, {
+      "text": " il simbolismo dietro quest'"
+    }, {
+      "text": "opera",
+      "parameterId": "opera_value",
       "auto": true
     }, {
       "text": " d'arte?"
@@ -108,24 +201,17 @@
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Voglio saperne ",
+      "text": "Che ",
       "auto": true
     }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
+      "text": "stile",
       "auto": true
     }, {
-      "text": " su questo ",
+      "text": " ha questo ",
       "auto": true
     }, {
       "text": "vaso",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", potresti fornirmi ",
-      "auto": true
-    }, {
-      "text": "ulteriori informazioni",
+      "parameterId": "opera_value",
       "auto": true
     }, {
       "text": "?",
@@ -135,60 +221,109 @@
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Puoi raccontarmi ",
+      "text": "Come",
+      "parameterId": "request_value",
       "auto": true
     }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
+      "text": " è stato realizzato questo ",
       "auto": true
-    }, {
-      "text": " su questa statua?",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Sono interessato a saperne ",
-      "auto": true
-    }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " su questa ",
-      "auto": true
-    }, {
-      "text": "scultura",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", ",
-      "auto": true
-    }, {
-      "text": "puoi aiutarmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": "?",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Potresti fornirmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " alcune "
-    }, {
-      "text": "informazioni aggiuntive",
-      "parameterId": "reinforcing_entity"
-    }, {
-      "text": " su questo "
     }, {
       "text": "dipinto",
-      "parameterId": "subject_entity"
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Qual",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " è la ",
+      "auto": true
+    }, {
+      "text": "tecnica",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": " utilizzata per scolpire questa statua?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi dirmi",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " i materiali usati per creare quest'",
+      "auto": true
+    }, {
+      "text": "opera",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": " d'arte?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Qual",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " è l'origine di questo ",
+      "auto": true
+    }, {
+      "text": "vaso",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Chi",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " ha ",
+      "auto": true
+    }, {
+      "text": "dipinto"
+    }, {
+      "text": " questo ",
+      "auto": true
+    }, {
+      "text": "quadro",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Come",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " si chiama questa "
+    }, {
+      "text": "statua",
+      "parameterId": "opera_value"
     }, {
       "text": "?"
     } ],
@@ -196,21 +331,57 @@
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Vorrei saperne ",
+      "text": "Chi",
+      "parameterId": "request_value",
       "auto": true
+    }, {
+      "text": " ha realizzato questa ",
+      "auto": true
+    }, {
+      "text": "scultura",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Voglio sapere",
+      "parameterId": "request_value"
+    }, {
+      "text": " "
     }, {
       "text": "di più",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
-      "text": " su quest'",
+      "text": " sull'"
+    }, {
+      "text": "artista",
+      "parameterId": "opera_value",
       "auto": true
     }, {
-      "text": "opera",
-      "parameterId": "subject_entity",
+      "text": " che ha creato quest'opera d'arte."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Qual",
+      "parameterId": "request_value",
       "auto": true
     }, {
-      "text": " d'arte.",
+      "text": " è il significato di questo ",
+      "auto": true
+    }, {
+      "text": "vaso",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -218,16 +389,13 @@
   }, {
     "parts": [ {
       "text": "Puoi spiegare",
-      "parameterId": "request_entity"
+      "parameterId": "request_value"
     }, {
-      "text": " il significato dietro l'"
+      "text": " il significato dietro questo "
     }, {
-      "text": "opera"
-    }, {
-      "text": " di questo "
-    }, {
-      "text": "artista",
-      "parameterId": "subject_entity"
+      "text": "dipinto",
+      "parameterId": "opera_value",
+      "auto": true
     }, {
       "text": "?"
     } ],
@@ -235,537 +403,167 @@
     "languageCode": "it"
   }, {
     "parts": [ {
-      "text": "Potresti fornirmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " alcune informazioni sulle questioni sociali di questo "
-    }, {
-      "text": "periodo storico",
-      "parameterId": "subject_entity",
+      "text": "Qual",
+      "parameterId": "request_value",
       "auto": true
     }, {
-      "text": "?"
+      "text": " è la storia dietro questa statua?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono curioso",
+      "parameterId": "request_value"
+    }, {
+      "text": " della storia di questa "
+    }, {
+      "text": "scultura",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti ",
+      "auto": true
+    }, {
+      "text": "darmi",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " qualche informazione su quest'",
+      "auto": true
+    }, {
+      "text": "opera",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": " d'arte?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei sapere",
+      "parameterId": "request_value"
+    }, {
+      "text": " "
+    }, {
+      "text": "di più",
+      "parameterId": "reinforcing_value",
+      "auto": true
+    }, {
+      "text": " su questo "
+    }, {
+      "text": "vaso",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi ",
+      "auto": true
+    }, {
+      "text": "fornirmi",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "maggiori dettagli",
+      "parameterId": "reinforcing_value",
+      "auto": true
+    }, {
+      "text": " su questo ",
+      "auto": true
+    }, {
+      "text": "dipinto",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cosa",
+      "parameterId": "request_value",
+      "auto": true
+    }, {
+      "text": " mi puoi dire di questa statua?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Sono interessato a saperne",
+      "parameterId": "request_value"
+    }, {
+      "text": " "
+    }, {
+      "text": "di più",
+      "parameterId": "reinforcing_value",
+      "auto": true
+    }, {
+      "text": " su questa "
+    }, {
+      "text": "scultura",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti raccontare",
+      "parameterId": "request_value"
+    }, {
+      "text": " "
+    }, {
+      "text": "di più",
+      "parameterId": "reinforcing_value",
+      "auto": true
+    }, {
+      "text": " su quest'"
+    }, {
+      "text": "opera",
+      "parameterId": "opera_value",
+      "auto": true
+    }, {
+      "text": " d'arte?"
     } ],
     "repeatCount": 1,
     "languageCode": "it"
   }, {
     "parts": [ {
       "text": "Puoi dirmi",
-      "parameterId": "request_entity",
-      "auto": true
+      "parameterId": "request_value"
     }, {
-      "text": " ",
-      "auto": true
+      "text": " "
     }, {
-      "text": "quali",
-      "auto": true
+      "text": "di piú",
+      "parameterId": "reinforcing_value"
     }, {
-      "text": " sono i diversi materiali utilizzati in quest'",
-      "auto": true
+      "text": " su quest'"
     }, {
       "text": "opera",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": " dello ",
-      "auto": true
-    }, {
-      "text": "scultore",
-      "auto": true
-    }, {
-      "text": "?",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Voglio sapere "
-    }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " sullo stile di questo "
-    }, {
-      "text": "artista",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", "
-    }, {
-      "text": "puoi spiegarmelo",
-      "parameterId": "request_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi contestualizzare",
-      "parameterId": "request_entity"
-    }, {
-      "text": " il clima politico di questo "
-    }, {
-      "text": "periodo storico",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Potresti raccontarmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " delle influenze sul lavoro di questo "
-    }, {
-      "text": "pittore",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi darmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " qualche esempio di "
-    }, {
-      "text": "sculture"
-    }, {
-      "text": " prodotte in questo "
-    }, {
-      "text": "periodo",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Sono interessato al significato culturale di questo "
-    }, {
-      "text": "periodo",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", "
-    }, {
-      "text": "puoi fornirmi alcune informazioni",
-      "parameterId": "request_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Potresti parlarmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " dell'impatto del lavoro di questo "
-    }, {
-      "text": "autore",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi spiegarmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " il processo di questa "
-    }, {
-      "text": "tecnica",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Voglio sapere "
-    }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " su questo "
-    }, {
-      "text": "artista",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", "
-    }, {
-      "text": "puoi raccontarmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi contestualizzare",
-      "parameterId": "request_entity"
-    }, {
-      "text": " questo "
-    }, {
-      "text": "periodo storico",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": " per me?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi raccontarmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " "
-    }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " su questo "
-    }, {
-      "text": "pittore",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Sono interessato a conoscere questa ",
-      "auto": true
-    }, {
-      "text": "tecnica",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": " di ",
-      "auto": true
-    }, {
-      "text": "scultura",
-      "auto": true
-    }, {
-      "text": ", ",
-      "auto": true
-    }, {
-      "text": "puoi aiutarmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": "?",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi darmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " qualche "
-    }, {
-      "text": "dettaglio",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " su questo "
-    }, {
-      "text": "periodo storico",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Cosa puoi dirmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " delle opere di questo "
-    }, {
-      "text": "autore",
-      "parameterId": "subject_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Potresti raccontarmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " del significato di questo "
-    }, {
-      "text": "artista",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Voglio saperne ",
-      "auto": true
-    }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " su questo specifico ",
-      "auto": true
-    }, {
-      "text": "periodo storico",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", ",
-      "auto": true
-    }, {
-      "text": "puoi aiutarmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": "?",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi fornirmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " alcune informazioni di base su questo "
-    }, {
-      "text": "scultore",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Potresti parlarmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " della "
-    }, {
-      "text": "tecnica",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": " utilizzata dagli artisti?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Sono curioso della vita di questo "
-    }, {
-      "text": "autore",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", "
-    }, {
-      "text": "puoi condividere",
-      "parameterId": "request_entity"
-    }, {
-      "text": " qualche informazione?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi parlarmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " del contesto storico di questo ",
-      "auto": true
-    }, {
-      "text": "periodo",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Potresti fornirmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " "
-    }, {
-      "text": "maggiori informazioni",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " su questo "
-    }, {
-      "text": "pittore",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Voglio saperne "
-    }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " su questa "
-    }, {
-      "text": "tecnica",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", me la "
-    }, {
-      "text": "puoi spiegare",
-      "parameterId": "request_entity"
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi darmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " qualche "
-    }, {
-      "text": "dettaglio",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " su questo "
-    }, {
-      "text": "artista",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Sono curioso di questo "
-    }, {
-      "text": "scultore",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", "
-    }, {
-      "text": "puoi fornirmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " alcune informazioni?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Cosa puoi dirmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " di questo ",
-      "auto": true
-    }, {
-      "text": "periodo storico",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": "?",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Sono interessato a questo "
-    }, {
-      "text": "pittore",
-      "parameterId": "subject_entity",
-      "auto": true
-    }, {
-      "text": ", "
-    }, {
-      "text": "puoi aiutarmi",
-      "parameterId": "request_entity",
-      "auto": true
-    }, {
-      "text": " a saperne "
-    }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": "?"
-    } ],
-    "repeatCount": 1,
-    "languageCode": "it"
-  }, {
-    "parts": [ {
-      "text": "Puoi raccontarmi",
-      "parameterId": "request_entity"
-    }, {
-      "text": " "
-    }, {
-      "text": "di più",
-      "parameterId": "reinforcing_entity",
-      "auto": true
-    }, {
-      "text": " su questo "
-    }, {
-      "text": "autore",
-      "parameterId": "subject_entity",
-      "auto": true
+      "parameterId": "opera_value"
     }, {
       "text": "?"
     } ],

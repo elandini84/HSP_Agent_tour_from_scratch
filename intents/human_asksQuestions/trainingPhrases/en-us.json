@@ -2,13 +2,13 @@
   "trainingPhrases": [ {
     "parts": [ {
       "text": "Tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " something about "
     }, {
       "text": "you",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "."
@@ -18,13 +18,13 @@
   }, {
     "parts": [ {
       "text": "Who",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " are "
     }, {
       "text": "you",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -34,13 +34,13 @@
   }, {
     "parts": [ {
       "text": "What",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": "'s "
     }, {
       "text": "your name",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -50,13 +50,13 @@
   }, {
     "parts": [ {
       "text": "How",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " old are "
     }, {
       "text": "you",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -66,13 +66,13 @@
   }, {
     "parts": [ {
       "text": "Who",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " is your "
     }, {
       "text": "creator",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -82,13 +82,13 @@
   }, {
     "parts": [ {
       "text": "Who",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " is your "
     }, {
       "text": "maker",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -98,13 +98,13 @@
   }, {
     "parts": [ {
       "text": "Can you tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " something about your "
     }, {
       "text": "creator",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -114,13 +114,13 @@
   }, {
     "parts": [ {
       "text": "Who",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " built "
     }, {
       "text": "you",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -130,13 +130,13 @@
   }, {
     "parts": [ {
       "text": "Who",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "created you",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -146,13 +146,13 @@
   }, {
     "parts": [ {
       "text": "Can you tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "more",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": "?"
@@ -162,13 +162,13 @@
   }, {
     "parts": [ {
       "text": "What",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "more",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": " "
@@ -182,13 +182,13 @@
   }, {
     "parts": [ {
       "text": "How",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " does it "
     }, {
       "text": "work",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -198,13 +198,13 @@
   }, {
     "parts": [ {
       "text": "Give me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "more details",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -212,13 +212,13 @@
   }, {
     "parts": [ {
       "text": "What can you tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " about "
     }, {
       "text": "future goals",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -228,13 +228,13 @@
   }, {
     "parts": [ {
       "text": "What",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " are the "
     }, {
       "text": "future goals",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     }, {
       "text": "?"
@@ -244,7 +244,7 @@
   }, {
     "parts": [ {
       "text": "Tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
@@ -254,7 +254,7 @@
       "text": " it "
     }, {
       "text": "works",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -262,19 +262,19 @@
   }, {
     "parts": [ {
       "text": "Tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "more",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": " about "
     }, {
       "text": "future goals",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -282,13 +282,13 @@
   }, {
     "parts": [ {
       "text": "Tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "more",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     }, {
       "text": " about "
@@ -298,7 +298,7 @@
       "text": " it "
     }, {
       "text": "works",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -306,13 +306,13 @@
   }, {
     "parts": [ {
       "text": "Tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " "
     }, {
       "text": "more",
-      "parameterId": "reinforcing_entity",
+      "parameterId": "reinforcing_value",
       "auto": true
     } ],
     "repeatCount": 1,
@@ -320,13 +320,13 @@
   }, {
     "parts": [ {
       "text": "Tell me",
-      "parameterId": "request_entity",
+      "parameterId": "request_value",
       "auto": true
     }, {
       "text": " about "
     }, {
       "text": "future goals",
-      "parameterId": "subject_entity",
+      "parameterId": "subject_value",
       "auto": true
     } ],
     "repeatCount": 1,

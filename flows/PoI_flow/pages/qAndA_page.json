@@ -9,16 +9,16 @@
   },
   "transitionRoutes": [ {
     "intent": "human_asksOperaQuestion",
-    "condition": "$session.params.subject_entity != NULL",
+    "condition": "$session.params.opera_value != NULL",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(explain_$session.params.subject_entity)" ]
+          "text": [ "(explain_$session.params.opera_value)" ]
         },
         "languageCode": "en-us"
       }, {
         "text": {
-          "text": [ "(explain_$session.params.subject_entity)" ]
+          "text": [ "(explain_$session.params.opera_value)" ]
         },
         "languageCode": "it"
       } ],
@@ -31,7 +31,7 @@
     "name": "5c7f6b9d-3a1e-4e8d-b2c0-0f9e6a8d5b4c"
   }, {
     "intent": "human_asksOperaQuestion",
-    "condition": "$session.params.subject_entity = NULL",
+    "condition": "$session.params.opera_value = NULL",
     "triggerFulfillment": {
       "messages": [ {
         "text": {

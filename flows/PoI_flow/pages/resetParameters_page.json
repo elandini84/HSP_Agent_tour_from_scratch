@@ -8,13 +8,13 @@
     "condition": "$session.params.paramReset_entity = \"resetAndBack\"",
     "triggerFulfillment": {
       "setParameterActions": [ {
-        "parameter": "subject_entity",
+        "parameter": "opera_value",
         "value": ""
       }, {
-        "parameter": "reinforcing_entity",
+        "parameter": "reinforcing_value",
         "value": ""
       }, {
-        "parameter": "request_entity",
+        "parameter": "request_value",
         "value": ""
       } ]
     },
@@ -24,13 +24,13 @@
     "condition": "$session.params.paramReset_entity = \"resetAndGo\"",
     "triggerFulfillment": {
       "setParameterActions": [ {
-        "parameter": "subject_entity",
+        "parameter": "opera_value",
         "value": ""
       }, {
-        "parameter": "reinforcing_entity",
+        "parameter": "reinforcing_value",
         "value": ""
       }, {
-        "parameter": "request_entity",
+        "parameter": "request_value",
         "value": ""
       } ]
     },
@@ -40,13 +40,13 @@
     "condition": "$session.params.paramReset_entity = \"resetAndQuit\"",
     "triggerFulfillment": {
       "setParameterActions": [ {
-        "parameter": "subject_entity",
+        "parameter": "opera_value",
         "value": ""
       }, {
-        "parameter": "reinforcing_entity",
+        "parameter": "reinforcing_value",
         "value": ""
       }, {
-        "parameter": "request_entity",
+        "parameter": "request_value",
         "value": ""
       } ]
     },
